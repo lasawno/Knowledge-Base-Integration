@@ -1,0 +1,20 @@
+[
+  {
+    "topic": "Diwali",
+    "country": "India",
+    "description": "Diwali is the Hindu Festival of Lights, celebrated over five days in autumn. It symbolizes the victory of light over darkness and knowledge over ignorance.",
+    "customs": ["lighting oil lamps (diyas)", "exchanging sweets", "fireworks", "worship of Lakshmi"],
+    "food": ["ladoo", "barfi", "gulab jamun", "jalebi", "kheer"],
+    "festivals": ["Dhanteras", "Lakshmi Puja", "Bhai Dooj"],
+    "greetings": { "Hindi": "Shubh Deepawali", "English": "Happy Diwali" },
+    "tags": ["hindu", "festival", "india", "lights"]
+  },
+  {
+    "topic": "Japanese Tea Ceremony",
+    "country": "Japan",
+    "description": "Chado or Chanoyu is a ritualized form of preparing and drinking matcha green tea, deeply rooted in Zen Buddhist principles of harmony, respect, purity, and tranquility.",
+    "customs": ["bowing upon entering", "specific bowl handling", "seasonal decorations", "silence and mindfulness"],
+    "food": ["matcha", "wagashi sweets"],
+    "tags": ["japan", "tea", "zen", "ceremony", "tradition"]
+  }
+]
