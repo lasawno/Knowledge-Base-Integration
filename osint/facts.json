@@ -1,0 +1,56 @@
+[
+  {
+    "q": "What is JunoTalk?",
+    "a": "JunoTalk is a multilingual encrypted communication platform featuring AI-powered real-time voice translation, end-to-end encrypted messaging, HD video calls, and global eSIM data. No phone number required.",
+    "category": "platform",
+    "tags": [
+      "junotalk",
+      "communication",
+      "ai"
+    ],
+    "confidence": 1
+  },
+  {
+    "q": "What languages does JunoTalk support?",
+    "a": "JunoTalk supports real-time translation across 50+ languages including English, Spanish, French, German, Japanese, Chinese, Korean, Arabic, Hindi, Portuguese, and more.",
+    "category": "platform",
+    "tags": [
+      "languages",
+      "translation"
+    ],
+    "confidence": 1
+  },
+  {
+    "q": "What is end-to-end encryption?",
+    "a": "End-to-end encryption means only the sender and recipient can read messages — not the service provider. JunoTalk uses E2EE for all direct messages and video calls.",
+    "category": "security",
+    "tags": [
+      "encryption",
+      "privacy",
+      "e2ee"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "q": "What is a JunoTalk room code?",
+    "a": "A JunoTalk room code is a 6-character code that lets anyone join a chat room instantly without needing an account or phone number.",
+    "category": "platform",
+    "tags": [
+      "room",
+      "code",
+      "chat"
+    ],
+    "confidence": 1
+  },
+  {
+    "q": "What is eSIM?",
+    "a": "An eSIM is a digital SIM card embedded in your device. JunoTalk offers travel eSIM data plans, letting you stay connected worldwide without swapping physical SIM cards.",
+    "category": "technology",
+    "tags": [
+      "esim",
+      "travel",
+      "sim"
+    ],
+    "confidence": 0.95
+  }
+]
