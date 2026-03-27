@@ -1,0 +1,20 @@
+{
+  "provider": "openai",
+  "model": "text-embedding-3-small",
+  "dimensions": 1536,
+  "namespace": "juno_knowledge_base",
+  "chunking": {
+    "enabled": true,
+    "chunk_size": 700,
+    "chunk_overlap": 120
+  },
+  "metadata_fields": [
+    "id",
+    "title",
+    "source",
+    "source_type",
+    "tags",
+    "timestamp",
+    "language"
+  ]
+}
