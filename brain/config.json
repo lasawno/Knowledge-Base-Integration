@@ -1,0 +1,41 @@
+{
+  "brain_name": "Juno",
+  "version": "1.0.0",
+  "description": "Semantic reasoning and knowledge orchestration layer for Juno.",
+  "sources": {
+    "osint": true,
+    "wikidata": true,
+    "neo4j": true,
+    "vector": true
+  },
+  "priority_order": [
+    "vector",
+    "neo4j",
+    "wikidata",
+    "osint"
+  ],
+  "memory": {
+    "short_term_cache": true,
+    "cache_ttl_seconds": 300,
+    "conversation_memory": true
+  },
+  "reasoning": {
+    "enabled": true,
+    "model_router": "primary-llm",
+    "fallback_router": "secondary-llm",
+    "max_context_chunks": 8
+  },
+  "tools": {
+    "enabled": true,
+    "allow_search": true,
+    "allow_translation": true,
+    "allow_graph_lookup": true,
+    "allow_semantic_lookup": true
+  },
+  "response_rules": {
+    "grounded_only": true,
+    "cite_sources_when_possible": true,
+    "do_not_hallucinate": true,
+    "return_uncertainty_when_confidence_low": true
+  }
+}
