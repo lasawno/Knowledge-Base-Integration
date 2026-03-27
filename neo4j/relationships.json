@@ -1,0 +1,54 @@
+[
+  {
+    "subject": "JunoTalk",
+    "predicate": "uses",
+    "object": "WebRTC for real-time video and voice calls",
+    "category": "technology",
+    "tags": [
+      "webrtc",
+      "junotalk"
+    ]
+  },
+  {
+    "subject": "JunoTalk",
+    "predicate": "supports",
+    "object": "end-to-end encrypted messaging using AES-GCM encryption",
+    "category": "security",
+    "tags": [
+      "encryption",
+      "junotalk"
+    ]
+  },
+  {
+    "subject": "AI translation",
+    "predicate": "powers",
+    "object": "real-time multilingual communication in JunoTalk",
+    "category": "technology",
+    "tags": [
+      "ai",
+      "translation"
+    ]
+  },
+  {
+    "subject": "Nova",
+    "predicate": "is",
+    "object": "the default AI voice assistant voice in JunoTalk, described as warm female",
+    "category": "platform",
+    "tags": [
+      "nova",
+      "voice",
+      "tts"
+    ]
+  },
+  {
+    "subject": "Juno",
+    "predicate": "is",
+    "object": "the AI reasoning assistant embedded in JunoTalk that helps with translation, questions, and conversation",
+    "category": "platform",
+    "tags": [
+      "juno",
+      "ai",
+      "assistant"
+    ]
+  }
+]
