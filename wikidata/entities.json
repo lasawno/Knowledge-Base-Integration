@@ -1,0 +1,46 @@
+[
+  {
+    "label": "Real-time translation",
+    "description": "Technology that converts spoken or written language to another language almost instantly using neural machine translation models trained on billions of sentence pairs.",
+    "instanceOf": "technology",
+    "category": "technology",
+    "tags": [
+      "translation",
+      "ai",
+      "realtime"
+    ]
+  },
+  {
+    "label": "WebRTC",
+    "description": "Web Real-Time Communication — an open standard enabling peer-to-peer audio, video and data in browsers without plugins. Used in video calling apps.",
+    "instanceOf": "protocol",
+    "category": "technology",
+    "tags": [
+      "webrtc",
+      "video",
+      "p2p"
+    ]
+  },
+  {
+    "label": "Neural machine translation",
+    "description": "A type of AI translation that uses neural networks to translate entire sentences at once, capturing context and nuance better than word-by-word approaches.",
+    "instanceOf": "artificial intelligence",
+    "category": "ai",
+    "tags": [
+      "nmt",
+      "translation",
+      "neural"
+    ]
+  },
+  {
+    "label": "Multilingual communication",
+    "description": "Communication between people who speak different languages, enabled by AI translation tools, interpreters, or translation software.",
+    "instanceOf": "communication",
+    "category": "communication",
+    "tags": [
+      "multilingual",
+      "language",
+      "communication"
+    ]
+  }
+]
