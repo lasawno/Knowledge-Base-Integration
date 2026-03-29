@@ -1,0 +1,92 @@
+[
+  {
+    "intent": "start_translation",
+    "patterns": [
+      "translate this",
+      "what does X mean in Y",
+      "say X in Y",
+      "how do you say",
+      "translate to"
+    ],
+    "response_hint": "User wants a translation. Identify the source text and target language, then provide the translation with pronunciation if helpful.",
+    "priority": "high",
+    "tags": [
+      "translation",
+      "core",
+      "language"
+    ]
+  },
+  {
+    "intent": "start_video_call",
+    "patterns": [
+      "call",
+      "video call",
+      "start a call",
+      "can we talk",
+      "hop on a call",
+      "let's call"
+    ],
+    "response_hint": "User wants to initiate a video call. Guide them to tap the camera icon or use the Calls tab.",
+    "priority": "high",
+    "tags": [
+      "call",
+      "video",
+      "action"
+    ]
+  },
+  {
+    "intent": "troubleshoot_audio",
+    "patterns": [
+      "can't hear",
+      "no sound",
+      "audio not working",
+      "microphone",
+      "muted",
+      "echo"
+    ],
+    "response_hint": "Audio issue. Check mic permissions first, then suggest switching speaker output or rejoining the call. On iOS mic is re-requested each session.",
+    "priority": "high",
+    "tags": [
+      "audio",
+      "troubleshoot",
+      "microphone",
+      "support"
+    ]
+  },
+  {
+    "intent": "ask_about_privacy",
+    "patterns": [
+      "is this private",
+      "who can see",
+      "encrypted",
+      "data stored",
+      "secure",
+      "privacy"
+    ],
+    "response_hint": "User has a privacy concern. Confirm end-to-end encryption for calls and messages, explain data retention policy, and direct to privacy policy if needed.",
+    "priority": "medium",
+    "tags": [
+      "privacy",
+      "security",
+      "trust"
+    ]
+  },
+  {
+    "intent": "cultural_question",
+    "patterns": [
+      "how do people greet in",
+      "what is the custom in",
+      "is it rude to",
+      "cultural difference",
+      "etiquette in"
+    ],
+    "response_hint": "User is asking about cultural norms. Pull from the culture knowledge layer for the relevant country or region.",
+    "priority": "medium",
+    "tags": [
+      "culture",
+      "etiquette",
+      "customs",
+      "international"
+    ]
+  }
+]
