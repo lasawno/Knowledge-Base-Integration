@@ -1,0 +1,66 @@
+[
+  {
+    "regulation": "GDPR",
+    "full_name": "General Data Protection Regulation",
+    "region": "European Union",
+    "applies_to": [
+      "EU residents",
+      "any service processing EU user data regardless of where the company is based"
+    ],
+    "key_rules": [
+      "Users must consent before data is collected",
+      "Users have the right to access, correct, or delete their data",
+      "Data breaches must be reported within 72 hours",
+      "End-to-end encryption is strongly recommended for personal communications"
+    ],
+    "relevance_to_junotalk": "All EU users of JunoTalk have the right to request their data or deletion. Calls and messages should be encrypted.",
+    "tags": [
+      "gdpr",
+      "eu",
+      "privacy",
+      "data",
+      "europe"
+    ]
+  },
+  {
+    "regulation": "Call Recording Consent",
+    "region": "United States",
+    "applies_to": [
+      "All parties on a recorded call within US jurisdiction"
+    ],
+    "key_rules": [
+      "One-party consent states (federal + most states): only one person on the call needs to consent to recording",
+      "Two-party (all-party) consent states: ALL parties must consent — includes California, Florida, Illinois, Maryland, Massachusetts, Nevada, New Hampshire, Oregon, Pennsylvania, Washington",
+      "Recording without consent in a two-party state is a criminal offense"
+    ],
+    "relevance_to_junotalk": "Always inform users before recording a call. In two-party consent states, get explicit agreement from all participants.",
+    "tags": [
+      "recording",
+      "consent",
+      "usa",
+      "legal",
+      "calls"
+    ]
+  },
+  {
+    "regulation": "COPPA",
+    "full_name": "Children's Online Privacy Protection Act",
+    "region": "United States",
+    "applies_to": [
+      "Online services with users under 13 years old"
+    ],
+    "key_rules": [
+      "Cannot collect personal data from children under 13 without verifiable parental consent",
+      "Must have a clear privacy policy disclosing what data is collected from children",
+      "Parents can review and delete their child's data"
+    ],
+    "relevance_to_junotalk": "JunoTalk requires users to be 13+ at registration. Accounts showing signs of underage use should be flagged.",
+    "tags": [
+      "coppa",
+      "children",
+      "privacy",
+      "usa",
+      "age"
+    ]
+  }
+]
