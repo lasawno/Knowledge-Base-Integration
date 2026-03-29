@@ -1,0 +1,91 @@
+[
+  {
+    "domain": "medical",
+    "term": "triage",
+    "definition": "The process of sorting patients by the urgency of their need for care. In emergencies, triage ensures the most critical patients receive immediate attention.",
+    "usage": "Used by emergency responders and hospital staff to prioritize treatment when resources are limited.",
+    "examples": [
+      "The nurse performed triage on the incoming patients.",
+      "Triage protocols are followed in disaster scenarios."
+    ],
+    "tags": [
+      "medical",
+      "emergency",
+      "hospital",
+      "priority"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "domain": "legal",
+    "term": "affidavit",
+    "definition": "A written sworn statement of fact voluntarily made under oath before an authorized official.",
+    "usage": "Submitted as evidence in court proceedings or used in official applications to confirm facts.",
+    "examples": [
+      "She signed an affidavit confirming her address.",
+      "The lawyer filed an affidavit on behalf of the client."
+    ],
+    "tags": [
+      "legal",
+      "court",
+      "sworn",
+      "document",
+      "evidence"
+    ],
+    "confidence": 0.95
+  },
+  {
+    "domain": "business",
+    "term": "due diligence",
+    "definition": "A thorough investigation and audit of a potential investment, business deal, or partner before signing an agreement.",
+    "usage": "Conducted before mergers, acquisitions, or partnerships to assess risks and verify claims.",
+    "examples": [
+      "The investors performed due diligence before funding the startup.",
+      "Due diligence revealed undisclosed liabilities."
+    ],
+    "tags": [
+      "business",
+      "investment",
+      "audit",
+      "risk",
+      "finance"
+    ],
+    "confidence": 0.93
+  },
+  {
+    "domain": "travel",
+    "term": "visa on arrival",
+    "definition": "A visa granted to a traveler upon arriving at the destination country, rather than obtained in advance from an embassy.",
+    "usage": "Available at airports or border crossings in select countries for eligible passport holders.",
+    "examples": [
+      "Citizens of many countries can get a visa on arrival in Thailand.",
+      "Always check if your passport qualifies for visa on arrival."
+    ],
+    "tags": [
+      "travel",
+      "visa",
+      "airport",
+      "border",
+      "immigration"
+    ],
+    "confidence": 0.92
+  },
+  {
+    "domain": "technology",
+    "term": "latency",
+    "definition": "The delay between a user action and the response from a system. In video calls, latency is the gap between speaking and the other person hearing you.",
+    "usage": "Lower latency means a more natural real-time conversation. High latency causes echo and interruptions.",
+    "examples": [
+      "The call had 200ms latency, causing a noticeable delay.",
+      "Switching to a closer server reduced latency significantly."
+    ],
+    "tags": [
+      "technology",
+      "network",
+      "video",
+      "call",
+      "performance"
+    ],
+    "confidence": 0.94
+  }
+]
