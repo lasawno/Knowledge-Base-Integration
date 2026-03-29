@@ -1,0 +1,67 @@
+[
+  {
+    "source": "How are you?",
+    "target": "¿Cómo estás?",
+    "source_lang": "en",
+    "target_lang": "es",
+    "context": "casual greeting",
+    "formality": "informal",
+    "tags": [
+      "greeting",
+      "casual",
+      "spanish"
+    ]
+  },
+  {
+    "source": "Nice to meet you.",
+    "target": "Mucho gusto.",
+    "source_lang": "en",
+    "target_lang": "es",
+    "context": "first introduction",
+    "formality": "neutral",
+    "tags": [
+      "introduction",
+      "meeting",
+      "spanish"
+    ]
+  },
+  {
+    "source": "Can you repeat that?",
+    "target": "Pouvez-vous répéter?",
+    "source_lang": "en",
+    "target_lang": "fr",
+    "context": "during conversation",
+    "formality": "formal",
+    "tags": [
+      "clarification",
+      "conversation",
+      "french"
+    ]
+  },
+  {
+    "source": "I don't understand.",
+    "target": "Ich verstehe nicht.",
+    "source_lang": "en",
+    "target_lang": "de",
+    "context": "communication breakdown",
+    "formality": "neutral",
+    "tags": [
+      "misunderstanding",
+      "german",
+      "communication"
+    ]
+  },
+  {
+    "source": "Thank you very much.",
+    "target": "非常感谢。",
+    "source_lang": "en",
+    "target_lang": "zh",
+    "context": "gratitude",
+    "formality": "formal",
+    "tags": [
+      "gratitude",
+      "mandarin",
+      "chinese"
+    ]
+  }
+]
