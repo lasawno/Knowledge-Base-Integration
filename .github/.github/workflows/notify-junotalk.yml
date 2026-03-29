@@ -1,0 +1,45 @@
+name: Notify JunoTalk — Sync Brain
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "osint/**"
+      - "neo4j/**"
+      - "wikidata/**"
+      - "culture/**"
+      - "brain/config.json"
+      - "vector/index_config.json"
+
+jobs:
+  sync:
+    name: Push new knowledge to Juno
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+
+    steps:
+      - name: Trigger JunoTalk knowledge sync
+        run: |
+          APP_URL="${{ vars.JUNOTALK_APP_URL }}"
+          SECRET="${{ secrets.JUNOTALK_SYNC_SECRET }}"
+
+          if [ -z "$APP_URL" ] || [ -z "$SECRET" ]; then
+            echo "JUNOTALK_APP_URL or JUNOTALK_SYNC_SECRET not set — skipping"
+            exit 0
+          fi
+
+          HTTP=$(curl -s -o /tmp/sync_response.json -w "%{http_code}" \
+            --max-time 30 \
+            -X POST "$APP_URL/api/admin/knowledge-sync/force" \
+            -H "Authorization: Bearer $SECRET" \
+            -H "Content-Type: application/json")
+
+          echo "HTTP status: $HTTP"
+          cat /tmp/sync_response.json || true
+
+          if [ "$HTTP" = "200" ]; then
+            echo "Juno brain updated successfully"
+          else
+            echo "Sync returned HTTP $HTTP"
+            exit 1
+          fi
