@@ -1,0 +1,64 @@
+[
+  {
+    "pattern": "How do I start a video call?",
+    "response_hint": "Tap the camera icon on any chat, or go to the Calls tab and select a contact. Make sure camera and microphone permissions are granted when prompted.",
+    "frequency": "high",
+    "category": "onboarding",
+    "tags": [
+      "video",
+      "call",
+      "start",
+      "beginner"
+    ]
+  },
+  {
+    "pattern": "Can Juno translate in real time during a call?",
+    "response_hint": "Yes — enable Voice Translation from the dashboard before your call. Juno will listen and provide translated captions live during the conversation.",
+    "frequency": "high",
+    "category": "translation",
+    "tags": [
+      "translation",
+      "real-time",
+      "call",
+      "voice",
+      "captions"
+    ]
+  },
+  {
+    "pattern": "My camera is not working on iOS",
+    "response_hint": "iOS re-requests camera permissions every session by design. Go to Settings → JunoTalk → allow Camera and Microphone, then reload the app.",
+    "frequency": "high",
+    "category": "troubleshooting",
+    "tags": [
+      "ios",
+      "camera",
+      "permission",
+      "bug",
+      "troubleshooting"
+    ]
+  },
+  {
+    "pattern": "How do I add a contact?",
+    "response_hint": "Tap Add Contact at the bottom of the screen, enter their username or share your contact code. They will appear in your contacts once they accept.",
+    "frequency": "medium",
+    "category": "contacts",
+    "tags": [
+      "contact",
+      "add",
+      "username",
+      "invite"
+    ]
+  },
+  {
+    "pattern": "What languages does JunoTalk support?",
+    "response_hint": "JunoTalk supports real-time translation for over 50 languages including Spanish, French, Mandarin, Arabic, Hindi, Portuguese, and Japanese.",
+    "frequency": "high",
+    "category": "translation",
+    "tags": [
+      "languages",
+      "supported",
+      "translation",
+      "list"
+    ]
+  }
+]
