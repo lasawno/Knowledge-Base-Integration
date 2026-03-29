@@ -1,0 +1,46 @@
+[
+  {
+    "topic": "AI translation breakthroughs",
+    "summary": "New multilingual models now achieve near-human accuracy across 100+ languages, reducing translation errors in medical and legal contexts by 40%.",
+    "region": "Global",
+    "published": "2026-03-01",
+    "source": "TechReview",
+    "category": "technology",
+    "tags": [
+      "ai",
+      "translation",
+      "multilingual",
+      "accuracy"
+    ]
+  },
+  {
+    "topic": "Real-time video call privacy regulations",
+    "summary": "The EU Digital Services Act now requires end-to-end encryption for all consumer video calls. Apps must disclose data retention policies clearly.",
+    "region": "Europe",
+    "published": "2026-02-15",
+    "source": "EUTechPolicy",
+    "category": "privacy",
+    "tags": [
+      "privacy",
+      "encryption",
+      "eu",
+      "video",
+      "regulation"
+    ]
+  },
+  {
+    "topic": "Mobile data costs dropping in Latin America",
+    "summary": "Average mobile data costs in Brazil, Mexico, and Colombia fell 25% in Q1 2026, enabling higher-quality video calls for more users.",
+    "region": "Latin America",
+    "published": "2026-03-10",
+    "source": "MobileTrends",
+    "category": "connectivity",
+    "tags": [
+      "mobile",
+      "data",
+      "latin america",
+      "video",
+      "connectivity"
+    ]
+  }
+]
