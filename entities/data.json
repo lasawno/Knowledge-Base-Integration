@@ -1,0 +1,93 @@
+[
+  {
+    "name": "JunoTalk",
+    "type": "product",
+    "description": "A multilingual video call and chat app with AI assistant Juno, real-time translation, voice features, and social integrations.",
+    "aliases": [
+      "Juno Talk",
+      "JT"
+    ],
+    "attributes": {
+      "category": "communication app",
+      "platforms": [
+        "iOS",
+        "Android",
+        "Web"
+      ],
+      "key_features": [
+        "real-time translation",
+        "video calls",
+        "AI assistant",
+        "social integrations"
+      ]
+    },
+    "tags": [
+      "junotalk",
+      "product",
+      "app",
+      "communication"
+    ]
+  },
+  {
+    "name": "Juno",
+    "type": "ai_assistant",
+    "description": "JunoTalk's built-in AI assistant. Provides real-time translation, answers questions, helps with communication across languages, and guides users through features.",
+    "aliases": [
+      "Juno AI",
+      "AI assistant"
+    ],
+    "attributes": {
+      "capabilities": [
+        "translation",
+        "question answering",
+        "cultural guidance",
+        "troubleshooting",
+        "voice assistance"
+      ]
+    },
+    "tags": [
+      "juno",
+      "ai",
+      "assistant",
+      "translation"
+    ]
+  },
+  {
+    "name": "WebRTC",
+    "type": "technology",
+    "description": "The open web standard used by JunoTalk to power real-time video and audio calls directly in the browser without plugins.",
+    "aliases": [
+      "Web Real-Time Communication"
+    ],
+    "attributes": {
+      "used_for": [
+        "video calls",
+        "audio calls",
+        "peer-to-peer data"
+      ],
+      "invented_by": "Google (open-sourced 2011)"
+    },
+    "tags": [
+      "webrtc",
+      "technology",
+      "video",
+      "calls",
+      "open-source"
+    ]
+  },
+  {
+    "name": "OpenRouter",
+    "type": "service",
+    "description": "AI model routing service used by JunoTalk to access multiple large language models through a single API for translation and reasoning.",
+    "aliases": [
+      "Open Router"
+    ],
+    "tags": [
+      "openrouter",
+      "ai",
+      "llm",
+      "service",
+      "translation"
+    ]
+  }
+]
