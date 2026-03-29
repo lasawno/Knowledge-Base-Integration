@@ -1,0 +1,76 @@
+[
+  {
+    "language": "Spanish",
+    "code": "es",
+    "variants": [
+      "Latin American Spanish",
+      "Castilian Spanish"
+    ],
+    "formality_levels": [
+      "informal (tú)",
+      "formal (usted)"
+    ],
+    "writing_direction": "ltr",
+    "notes": "In Latin America 'vos' is used instead of 'tú' in some countries like Argentina and Uruguay. Avoid Spain-specific slang when targeting Latin American audiences.",
+    "common_mistakes": [
+      "Confusing ser/estar (both mean 'to be')",
+      "Gender agreement with adjectives"
+    ],
+    "tags": [
+      "romance",
+      "latin",
+      "americas",
+      "europe"
+    ]
+  },
+  {
+    "language": "Arabic",
+    "code": "ar",
+    "variants": [
+      "Modern Standard Arabic",
+      "Egyptian Arabic",
+      "Levantine Arabic",
+      "Gulf Arabic"
+    ],
+    "formality_levels": [
+      "formal (MSA)",
+      "colloquial (dialect)"
+    ],
+    "writing_direction": "rtl",
+    "notes": "Arabic is written right-to-left. Modern Standard Arabic (MSA) is used in formal writing; spoken dialects vary greatly by region. Egyptian dialect is the most widely understood.",
+    "common_mistakes": [
+      "Using MSA in casual conversation sounds stiff",
+      "Dialects are not mutually intelligible across all regions"
+    ],
+    "tags": [
+      "semitic",
+      "middle-east",
+      "africa",
+      "rtl"
+    ]
+  },
+  {
+    "language": "Mandarin Chinese",
+    "code": "zh",
+    "variants": [
+      "Simplified Chinese (Mainland)",
+      "Traditional Chinese (Taiwan, HK)"
+    ],
+    "formality_levels": [
+      "written formal",
+      "spoken casual"
+    ],
+    "writing_direction": "ltr",
+    "notes": "Simplified characters are used in mainland China; Traditional in Taiwan and Hong Kong. Tones are critical — the same syllable with different tones has completely different meanings.",
+    "common_mistakes": [
+      "Ignoring tones in pronunciation",
+      "Mixing Simplified and Traditional characters"
+    ],
+    "tags": [
+      "sinitic",
+      "china",
+      "taiwan",
+      "tonal"
+    ]
+  }
+]
