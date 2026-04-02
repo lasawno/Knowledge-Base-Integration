@@ -1,0 +1,105 @@
+{
+  "source": "awesome-chatgpt-prompts",
+  "repo": "f/awesome-chatgpt-prompts",
+  "category": "conversation_patterns",
+  "topic": "ChatGPT prompting strategies and real-world use cases",
+  "learnedAt": "2026-04-02T19:25:50.957Z",
+  "entries": [
+    {
+      "q": "What is prompts.chat?",
+      "a": "Prompts.chat is the world's largest open-source prompt library for AI, designed to work with various AI models like ChatGPT, Claude, and others.",
+      "category": "conversation_patterns",
+      "tags": [
+        "prompts",
+        "AI",
+        "library"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What types of prompts can be found on prompts.chat?",
+      "a": "Prompts.chat offers a curated collection of prompt examples for AI chat models, suitable for both beginners and advanced users.",
+      "category": "conversation_patterns",
+      "tags": [
+        "prompts",
+        "examples",
+        "AI"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I contribute to prompts.chat?",
+      "a": "Users can contribute prompts by visiting prompts.chat/prompts/new, where their submissions will sync automatically to the library.",
+      "category": "conversation_patterns",
+      "tags": [
+        "contribution",
+        "community",
+        "prompts"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the Interactive Book of Prompting?",
+      "a": "The Interactive Book of Prompting is a free, interactive guide that teaches prompt engineering through 25+ chapters, covering topics from basics to advanced techniques.",
+      "category": "conversation_patterns",
+      "tags": [
+        "prompting",
+        "education",
+        "guide"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the target age group for the 'Prompting for Kids' program?",
+      "a": "The 'Prompting for Kids' program is designed for children aged 8-14, using interactive games to teach them how to communicate with AI.",
+      "category": "conversation_patterns",
+      "tags": [
+        "education",
+        "kids",
+        "AI"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the self-hosting options available for prompts.chat?",
+      "a": "Users can deploy their own private prompt library with custom branding and authentication using a quick start command or manual setup instructions provided in the documentation.",
+      "category": "conversation_patterns",
+      "tags": [
+        "self-hosting",
+        "customization",
+        "setup"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What integrations are available for prompts.chat?",
+      "a": "Prompts.chat can be integrated with various tools, including a command-line interface (CLI) and as an MCP server for AI tools.",
+      "category": "conversation_patterns",
+      "tags": [
+        "integrations",
+        "CLI",
+        "MCP"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "How has prompts.chat been recognized in the academic community?",
+      "a": "Prompts.chat has been referenced by institutions like Harvard and Columbia and has received over 40 academic citations, highlighting its significance in effective AI use.",
+      "category": "conversation_patterns",
+      "tags": [
+        "academic",
+        "recognition",
+        "AI"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    }
+  ]
+}
