@@ -1,0 +1,97 @@
+{
+  "source": "prompt-engineering-guide",
+  "repo": "dair-ai/Prompt-Engineering-Guide",
+  "category": "reasoning_techniques",
+  "topic": "AI reasoning techniques, chain-of-thought, factual AI knowledge",
+  "learnedAt": "2026-04-02T19:26:08.595Z",
+  "entries": [
+    {
+      "q": "What is prompt engineering?",
+      "a": "Prompt engineering is the discipline of developing and optimizing prompts to efficiently use language models for various applications and research topics.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt engineering",
+        "language models"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "How does prompt engineering benefit researchers and developers?",
+      "a": "Researchers use prompt engineering to enhance the performance of large language models on complex tasks, while developers design effective prompting techniques to interface with these models.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "research",
+        "development"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some common techniques used in prompt engineering?",
+      "a": "Common techniques include zero-shot prompting, few-shot prompting, chain-of-thought prompting, and retrieval augmented generation.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "techniques",
+        "prompt engineering"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is chain-of-thought prompting?",
+      "a": "Chain-of-thought prompting is a technique that encourages the language model to generate intermediate reasoning steps, leading to more accurate and coherent responses.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "chain-of-thought",
+        "reasoning"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the significance of self-consistency in prompt engineering?",
+      "a": "Self-consistency involves generating multiple responses to the same prompt and selecting the most frequent or reliable answer, improving the overall accuracy of the model's output.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "self-consistency",
+        "accuracy"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is retrieval augmented generation (RAG)?",
+      "a": "Retrieval augmented generation is a technique that combines the strengths of retrieval-based methods and generative models to enhance the quality and relevance of generated content.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "RAG",
+        "generation"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What role does context engineering play in prompt engineering?",
+      "a": "Context engineering involves designing the surrounding context of a prompt to improve the performance and relevance of the language model's responses.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "context engineering",
+        "performance"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some applications of prompt engineering?",
+      "a": "Applications include question answering, generating code, creating synthetic datasets, and text summarization.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "applications",
+        "prompt engineering"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    }
+  ]
+}
