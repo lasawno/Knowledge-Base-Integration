@@ -1,0 +1,93 @@
+{
+  "source": "openai-cookbook",
+  "repo": "openai/openai-cookbook",
+  "category": "domain",
+  "topic": "Practical OpenAI and ChatGPT usage patterns, real use cases",
+  "learnedAt": "2026-04-02T19:26:38.063Z",
+  "entries": [
+    {
+      "q": "What is the OpenAI Cookbook?",
+      "a": "The OpenAI Cookbook is a resource that provides example code and guides for accomplishing common tasks with the OpenAI API.",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "Cookbook",
+        "API"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I run examples from the OpenAI Cookbook?",
+      "a": "To run examples from the OpenAI Cookbook, you need an OpenAI account and an associated API key. You can set an environment variable called `OPENAI_API_KEY` with your API key or create an `.env` file in your project directory.",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "API",
+        "Examples"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "In which programming language are most OpenAI Cookbook examples written?",
+      "a": "Most examples in the OpenAI Cookbook are written in Python, although the concepts can be applied in any programming language.",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "Python",
+        "Programming"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "Where can I find related resources for OpenAI?",
+      "a": "Related resources for OpenAI can be found on the OpenAI Cookbook website, which links to various tools, guides, and courses from around the web.",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "Resources",
+        "Guides"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is required to use the OpenAI API?",
+      "a": "To use the OpenAI API, you need to create a free OpenAI account and obtain an API key, which you will use to authenticate your requests.",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "API",
+        "Authentication"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "How do I set my OpenAI API key in a development environment?",
+      "a": "You can set your OpenAI API key in a development environment by creating an environment variable named `OPENAI_API_KEY` or by adding it to an `.env` file in your project's root directory.",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "API Key",
+        "Environment Variable"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What type of license does the OpenAI Cookbook use?",
+      "a": "The OpenAI Cookbook is licensed under the MIT License.",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "License",
+        "MIT"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    }
+  ]
+}
