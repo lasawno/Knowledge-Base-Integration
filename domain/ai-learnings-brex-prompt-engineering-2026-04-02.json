@@ -1,0 +1,91 @@
+{
+  "source": "brex-prompt-engineering",
+  "repo": "brexhq/prompt-engineering",
+  "category": "conversation_patterns",
+  "topic": "Real-world prompt engineering patterns used by engineers",
+  "learnedAt": "2026-04-02T19:27:39.368Z",
+  "entries": [
+    {
+      "q": "What is a Large Language Model (LLM)?",
+      "a": "A large language model is a prediction engine that takes a sequence of words and predicts the most likely sequence to follow. It assigns probabilities to potential next sequences and samples from these to choose one, repeating the process until a stopping criterion is met.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "definition"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the limitations of traditional language models like n-gram models?",
+      "a": "Traditional language models, such as n-gram models, suffer from deficiencies like the curse of dimensionality and sparsity, leading to inconsistent outputs that may resemble human text but often result in gibberish.",
+      "category": "conversation_patterns",
+      "tags": [
+        "language models",
+        "n-gram",
+        "limitations"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "How did Long Short-Term Memory (LSTM) networks improve language modeling?",
+      "a": "LSTM networks allowed models to process arbitrary length sequences and dynamically alter their internal state as they processed input, significantly improving performance in language tasks despite struggles with long-term dependencies.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LSTM",
+        "language modeling",
+        "improvements"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What breakthrough did the paper 'Attention Is All You Need' introduce?",
+      "a": "The paper 'Attention Is All You Need' introduced Transformer Networks, which revolutionized natural language processing by enabling models to perform tasks like language translation with high efficiency and accuracy through a mechanism called 'attention'.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Transformer",
+        "attention",
+        "breakthrough"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is prompt engineering and why is it necessary?",
+      "a": "Prompt engineering involves designing and refining prompts to effectively communicate with language models. It is necessary to ensure that the models produce relevant and accurate outputs tailored to specific use cases.",
+      "category": "conversation_patterns",
+      "tags": [
+        "prompt engineering",
+        "importance"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some strategies for embedding data in prompts?",
+      "a": "Strategies for embedding data in prompts include using simple lists, markdown tables, JSON, freeform text, and nested data structures to enhance the model's understanding and response accuracy.",
+      "category": "conversation_patterns",
+      "tags": [
+        "embedding data",
+        "strategies",
+        "prompts"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the significance of fine-tuning in the context of LLMs?",
+      "a": "Fine-tuning is the process of adjusting a pre-trained language model on a specific dataset to improve its performance for particular tasks, although it may come with downsides such as overfitting or increased complexity.",
+      "category": "conversation_patterns",
+      "tags": [
+        "fine-tuning",
+        "LLM",
+        "significance"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    }
+  ]
+}
