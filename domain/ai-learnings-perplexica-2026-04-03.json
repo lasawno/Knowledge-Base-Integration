@@ -1,0 +1,98 @@
+{
+  "source": "perplexica",
+  "repo": "ItzCrazyKns/Perplexica",
+  "category": "domain",
+  "topic": "Perplexity AI search methodology, answer synthesis patterns",
+  "learnedAt": "2026-04-03T00:15:04.998Z",
+  "entries": [
+    {
+      "q": "What is Vane?",
+      "a": "Vane is a privacy-focused AI answering engine that runs entirely on your own hardware.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI",
+        "privacy"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What features does Vane support?",
+      "a": "Vane supports features such as smart search modes, pick your sources, widgets, web search powered by SearxNG, image and video search, file uploads, search specific domains, smart suggestions, and search history.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "features"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I install Vane?",
+      "a": "Vane can be installed using Docker or without Docker. Using Docker is highly recommended as it simplifies the setup process.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "installation"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is SearxNG and how is it related to Vane?",
+      "a": "SearxNG is a search engine that Vane uses for web searches. Vane can be used with a bundled SearxNG instance or with an existing SearxNG instance.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "SearxNG"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can I use Vane with my own AI models?",
+      "a": "Yes, Vane supports local LLMs (Ollama) and cloud providers (OpenAI, Claude, Groq), allowing you to use your own AI models or connect to external providers.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI models"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Is Vane open-source and free?",
+      "a": "Yes, Vane is open-source and free, thanks to the generous support of its sponsors and the open-source community.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "open-source"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I configure my Vane settings?",
+      "a": "You can configure your Vane settings, such as API keys, models, and SearxNG URL, directly in the setup screen at http://localhost:3000.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "configuration"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the system requirements for running Vane?",
+      "a": "Vane requires Docker to be installed and running on your system. You can also install Vane without Docker, but this is not recommended.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "system requirements"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    }
+  ]
+}
