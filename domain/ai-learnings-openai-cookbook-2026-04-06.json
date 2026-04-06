@@ -3,11 +3,11 @@
   "repo": "openai/openai-cookbook",
   "category": "domain",
   "topic": "Practical OpenAI and ChatGPT usage patterns, real use cases",
-  "learnedAt": "2026-04-06T00:20:54.811Z",
+  "learnedAt": "2026-04-06T00:20:55.836Z",
   "entries": [
     {
-      "q": "What is the OpenAI Cookbook and where can I access it?",
-      "a": "The OpenAI Cookbook is a resource for example code and guides on using the OpenAI API, and it can be accessed at cookbook.openai.com.",
+      "q": "What is the OpenAI Cookbook and where can I find it?",
+      "a": "The OpenAI Cookbook is a resource for example code and guides on using the OpenAI API, and it can be found at cookbook.openai.com.",
       "category": "domain",
       "tags": [
         "OpenAI",
@@ -31,7 +31,7 @@
     },
     {
       "q": "How can I set my OpenAI API key as an environment variable?",
-      "a": "You can set your OpenAI API key as an environment variable by creating an environment variable called OPENAI_API_KEY with your API key, or by creating a .env file at the root of your repository with OPENAI_API_KEY=<your API key>.",
+      "a": "You can set your OpenAI API key as an environment variable by creating an environment variable called OPENAI_API_KEY with your API key, or by creating a .env file at the root of your repository with the variable.",
       "category": "domain",
       "tags": [
         "OpenAI",
@@ -42,7 +42,7 @@
       "confidence": 0.82
     },
     {
-      "q": "In what programming language are most of the code examples in the OpenAI Cookbook written?",
+      "q": "What programming language are most of the code examples in the OpenAI Cookbook written in?",
       "a": "Most of the code examples in the OpenAI Cookbook are written in Python.",
       "category": "domain",
       "tags": [
@@ -78,13 +78,13 @@
       "confidence": 0.82
     },
     {
-      "q": "Where can I find related resources and courses for using OpenAI?",
-      "a": "You can find related resources and courses for using OpenAI at cookbook.openai.com/related_resources.",
+      "q": "Where can I find related resources and tools for using the OpenAI API?",
+      "a": "You can find related resources and tools for using the OpenAI API at cookbook.openai.com/related_resources.",
       "category": "domain",
       "tags": [
         "OpenAI",
-        "Resources",
-        "Courses"
+        "API",
+        "Resources"
       ],
       "source": "openai/openai-cookbook",
       "confidence": 0.82
