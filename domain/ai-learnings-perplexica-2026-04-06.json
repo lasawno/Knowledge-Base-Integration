@@ -1,0 +1,92 @@
+{
+  "source": "perplexica",
+  "repo": "ItzCrazyKns/Perplexica",
+  "category": "domain",
+  "topic": "Perplexity AI search methodology, answer synthesis patterns",
+  "learnedAt": "2026-04-06T00:21:01.456Z",
+  "entries": [
+    {
+      "q": "What is Vane and what are its key features",
+      "a": "Vane is a privacy-focused AI answering engine that runs on local hardware, combining internet knowledge with support for local LLMs and cloud providers, delivering accurate answers with cited sources while keeping searches private. Its key features include support for major AI providers, smart search modes, and the ability to pick sources, among others.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI",
+        "privacy"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How does Vane ensure privacy for its users",
+      "a": "Vane ensures privacy by running entirely on the user's own hardware and using local LLMs, allowing users to keep their searches completely private.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "privacy",
+        "local LLMs"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What search modes are available in Vane",
+      "a": "Vane offers three search modes: Speed Mode for quick answers, Balanced Mode for everyday searches, and Quality Mode for deep research.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "search modes"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can Vane search specific domains or sources",
+      "a": "Yes, Vane allows users to search specific domains, limit their search to specific websites, and choose from various sources such as the web, discussions, or academic papers.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "domain search",
+        "source selection"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can Vane be installed and run",
+      "a": "Vane can be installed and run using Docker, which is the recommended method, or without Docker by installing dependencies, building the application, and starting it manually.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "installation",
+        "Docker"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the role of SearxNG in Vane",
+      "a": "SearxNG is a search engine that Vane uses to power its web search functionality, allowing users to access multiple search engines while keeping their identity private.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "SearxNG",
+        "web search"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can Vane be used with other AI providers or models",
+      "a": "Yes, Vane supports all major AI providers, including OpenAI, Anthropic Claude, Google Gemini, Groq, and more, and allows users to mix and match models based on their needs.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI providers",
+        "models"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    }
+  ]
+}
