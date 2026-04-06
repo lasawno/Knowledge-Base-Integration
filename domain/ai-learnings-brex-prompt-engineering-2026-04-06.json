@@ -1,0 +1,105 @@
+{
+  "source": "brex-prompt-engineering",
+  "repo": "brexhq/prompt-engineering",
+  "category": "conversation_patterns",
+  "topic": "Real-world prompt engineering patterns used by engineers",
+  "learnedAt": "2026-04-06T00:21:24.514Z",
+  "entries": [
+    {
+      "q": "What is a Large Language Model (LLM)?",
+      "a": "A Large Language Model is a prediction engine that takes a sequence of words and tries to predict the most likely sequence to come after that sequence.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "Language Model",
+        "Prediction Engine"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "How do Large Language Models learn probabilities?",
+      "a": "Large Language Models learn probabilities by training on large corpuses of text, which allows them to assign a probability to likely next sequences and sample from those to choose one.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "Training",
+        "Probabilities"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the difference between traditional language models and modern language models?",
+      "a": "Traditional language models, such as n-gram models, have deficiencies in terms of an explosion of state space and working with novel phrases, whereas modern language models, such as those using Transformer Networks, can handle these issues more effectively.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Traditional Language Models",
+        "Modern Language Models",
+        "N-gram Models"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the significance of the Transformer Network in natural language processing?",
+      "a": "The Transformer Network, introduced in 2017, revolutionized natural language processing by allowing machines to perform tasks like translating between languages nearly as well as humans, and introduced a mechanism called 'attention' for efficient emphasis on specific parts of the input.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Transformer Network",
+        "Natural Language Processing",
+        "Attention Mechanism"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some limitations of Long Short-Term Memory (LSTM) Networks?",
+      "a": "LSTM Networks struggle with long-term dependencies and process input one token at a time, making them inherently sequential, slow to train, and limited in their ability to predict sequences.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LSTM Networks",
+        "Limitations",
+        "Long-term Dependencies"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the purpose of prompt engineering in Large Language Models?",
+      "a": "Prompt engineering is necessary to effectively utilize Large Language Models, as it allows engineers to craft input sequences that elicit specific, desired responses from the model, and to fine-tune the model for particular use cases.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Prompt Engineering",
+        "LLM",
+        "Fine-tuning"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is a token in the context of Large Language Models?",
+      "a": "A token roughly maps to a syllable in a word, or about 4 characters, and is the basic unit of input and output for Large Language Models.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Token",
+        "LLM",
+        "Input/Output"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "How have Large Language Models evolved over time?",
+      "a": "Large Language Models have evolved from traditional language models, such as n-gram models, to modern models using neural networks, and have improved significantly with the introduction of techniques like Transformer Networks and attention mechanisms.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM Evolution",
+        "Neural Networks",
+        "Transformer Networks"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    }
+  ]
+}
