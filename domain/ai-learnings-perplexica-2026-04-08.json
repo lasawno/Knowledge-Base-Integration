@@ -1,0 +1,87 @@
+{
+  "source": "perplexica",
+  "repo": "ItzCrazyKns/Perplexica",
+  "category": "domain",
+  "topic": "Perplexity AI search methodology, answer synthesis patterns",
+  "learnedAt": "2026-04-08T00:03:38.004Z",
+  "entries": [
+    {
+      "q": "What is Vane and how does it work",
+      "a": "Vane is a privacy-focused AI answering engine that runs entirely on your own hardware, combining knowledge from the internet with support for local LLMs and cloud providers, delivering accurate answers with cited sources while keeping searches private.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI",
+        "privacy"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the key features of Vane",
+      "a": "Vane features include support for all major AI providers, smart search modes, ability to pick sources, widgets, web search powered by SearxNG, image and video search, file uploads, search specific domains, smart suggestions, and search history.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "features"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I install Vane",
+      "a": "Vane can be installed using Docker, which is the recommended method, or without Docker by installing SearXNG, cloning the repository, installing dependencies, building the application, and starting it.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "installation"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the benefits of using Vane with Docker",
+      "a": "Using Vane with Docker simplifies the setup process, especially for managing environment variables and dependencies, and creates persistent volumes for data and uploaded files.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "Docker"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can I use Vane with my own SearxNG instance",
+      "a": "Yes, you can use Vane with your own SearxNG instance by running the slim version of Vane and configuring your SearxNG API URL and AI provider settings.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "SearxNG"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is SearxNG and how does it relate to Vane",
+      "a": "SearxNG is a search engine that Vane uses to power its web search, and it must be configured to enable JSON format and Wolfram Alpha search engine for Vane to work properly.",
+      "category": "domain",
+      "tags": [
+        "SearxNG",
+        "Vane"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How do I access Vane after installation",
+      "a": "After installation, you can access Vane by navigating to http://localhost:3000 in your browser and completing the setup and configuration of your settings, including API keys, models, and SearxNG URL.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "access"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    }
+  ]
+}
