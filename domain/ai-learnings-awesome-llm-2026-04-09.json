@@ -1,0 +1,97 @@
+{
+  "source": "awesome-llm",
+  "repo": "Hannibal046/Awesome-LLM",
+  "category": "domain",
+  "topic": "Comprehensive curated knowledge base on large language models, capabilities, research, and real-world applications",
+  "learnedAt": "2026-04-09T01:02:06.909Z",
+  "entries": [
+    {
+      "q": "What is the name of the first-generation reasoning model from DeepSeek?",
+      "a": "DeepSeek-R1",
+      "category": "domain",
+      "tags": [
+        "DeepSeek",
+        "reasoning models"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Which model is considered the first open-sourced GPT-4o level model?",
+      "a": "DeepSeek-V3",
+      "category": "domain",
+      "tags": [
+        "GPT-4o",
+        "open-sourced"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the name of the MoE language model with 32B active and 1T total parameters?",
+      "a": "Kimi-K2",
+      "category": "domain",
+      "tags": [
+        "MoE",
+        "language model"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "In what year was the paper 'Attention Is All You Need' published?",
+      "a": "2017",
+      "category": "domain",
+      "tags": [
+        "Transformers",
+        "Attention Is All You Need"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Which institute published the paper 'Improving Language Understanding by Generative Pre-Training'?",
+      "a": "OpenAI",
+      "category": "domain",
+      "tags": [
+        "GPT 1.0",
+        "OpenAI"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the name of the model that uses a mixture-of-experts approach for efficient scaling of language models?",
+      "a": "GLaM",
+      "category": "domain",
+      "tags": [
+        "GLaM",
+        "mixture-of-experts"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Which model is a browser-assisted question-answering model that uses human feedback?",
+      "a": "WebGPT",
+      "category": "domain",
+      "tags": [
+        "WebGPT",
+        "question-answering"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "In what year was the paper 'Scaling Laws for Neural Language Models' published?",
+      "a": "2020",
+      "category": "domain",
+      "tags": [
+        "Scaling Laws",
+        "Neural Language Models"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    }
+  ]
+}
