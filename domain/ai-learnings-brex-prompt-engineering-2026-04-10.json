@@ -1,0 +1,97 @@
+{
+  "source": "brex-prompt-engineering",
+  "repo": "brexhq/prompt-engineering",
+  "category": "conversation_patterns",
+  "topic": "Real-world prompt engineering patterns used by engineers",
+  "learnedAt": "2026-04-10T05:44:12.129Z",
+  "entries": [
+    {
+      "q": "What is a Large Language Model?",
+      "a": "A large language model is a prediction engine that takes a sequence of words and tries to predict the most likely sequence to come after that sequence.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "language models"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "How do Large Language Models learn probabilities?",
+      "a": "Large language models learn probabilities by training on large corpuses of text, which allows them to assign a probability to likely next sequences and sample from those to choose one.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "training"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the difference between traditional language models and modern language models?",
+      "a": "Traditional language models, such as n-gram models, have deficiencies in terms of state space explosion and working with novel phrases, whereas modern language models, such as neural networks and transformers, can handle these issues more effectively.",
+      "category": "conversation_patterns",
+      "tags": [
+        "language models",
+        "traditional vs modern"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the significance of the Transformer Network in natural language processing?",
+      "a": "The Transformer Network, introduced in 2017, revolutionized natural language processing by enabling machines to perform tasks like translation between languages nearly as well as humans, and introduced a mechanism called 'attention' for efficient emphasis on specific parts of the input.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Transformer Network",
+        "NLP"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some limitations of Long Short-Term Memory (LSTM) Networks?",
+      "a": "LSTMs struggle with long-term dependencies and process input one token at a time, making them inherently sequential, slow to train, and limited in their ability to predict outcomes based on distant context.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LSTM",
+        "limitations"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the purpose of prompt engineering in Large Language Models?",
+      "a": "Prompt engineering is necessary to help Large Language Models understand the context and generate relevant responses, as the models may generate statements that seem plausible but are actually random or ungrounded in reality.",
+      "category": "conversation_patterns",
+      "tags": [
+        "prompt engineering",
+        "LLM"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are tokens in the context of Large Language Models?",
+      "a": "Tokens roughly map to a syllable in a word, or about 4 characters, and are used by language models instead of words.",
+      "category": "conversation_patterns",
+      "tags": [
+        "tokens",
+        "LLM"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "How have Large Language Models evolved over time?",
+      "a": "Large Language Models have evolved from traditional models like n-gram models, to neural networks, and finally to transformers, with each iteration improving the models' ability to handle complex tasks and generate coherent text.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "evolution"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    }
+  ]
+}
