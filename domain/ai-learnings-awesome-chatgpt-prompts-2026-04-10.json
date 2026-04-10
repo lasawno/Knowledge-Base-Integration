@@ -1,0 +1,97 @@
+{
+  "source": "awesome-chatgpt-prompts",
+  "repo": "f/awesome-chatgpt-prompts",
+  "category": "conversation_patterns",
+  "topic": "ChatGPT prompting strategies and real-world use cases",
+  "learnedAt": "2026-04-10T05:26:33.837Z",
+  "entries": [
+    {
+      "q": "What is prompts.chat?",
+      "a": "Prompts.chat is the world's largest open-source prompt library for AI, compatible with models like ChatGPT, Claude, Gemini, Llama, and Mistral. It provides a curated collection of prompt examples for AI chat models.",
+      "category": "conversation_patterns",
+      "tags": [
+        "prompt_library",
+        "AI_tools"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What types of resources does prompts.chat offer?",
+      "a": "Prompts.chat offers prompt examples in various formats, including a website, CSV files, a GitHub repository, and a Hugging Face dataset. It also provides an interactive book on prompt engineering and a game-based learning tool for kids.",
+      "category": "conversation_patterns",
+      "tags": [
+        "resources",
+        "AI_learning"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the Interactive Book of Prompting?",
+      "a": "The Interactive Book of Prompting is a free guide with over 25 chapters that teach prompt engineering, covering topics from basics to advanced techniques like chain-of-thought reasoning, few-shot learning, and AI agents.",
+      "category": "conversation_patterns",
+      "tags": [
+        "prompt_engineering",
+        "learning_resources"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is 'Prompting for Kids'?",
+      "a": "'Prompting for Kids' is an interactive, game-based adventure designed to teach children aged 8-14 how to communicate with AI through fun puzzles and stories.",
+      "category": "conversation_patterns",
+      "tags": [
+        "kids",
+        "AI_education"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I self-host prompts.chat?",
+      "a": "You can self-host prompts.chat by using the quick start command 'npx prompts.chat new my-prompt-library' or manually cloning the GitHub repository, installing dependencies, and running the setup wizard for customization.",
+      "category": "conversation_patterns",
+      "tags": [
+        "self_hosting",
+        "customization"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What integrations does prompts.chat support?",
+      "a": "Prompts.chat supports integrations such as a CLI tool, a Claude Code Plugin, and an MCP server for use in AI tools. It provides documentation for setting up these integrations.",
+      "category": "conversation_patterns",
+      "tags": [
+        "integrations",
+        "AI_tools"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "Who are some notable supporters of prompts.chat?",
+      "a": "Prompts.chat is supported by notable figures such as Greg Brockman (OpenAI Co-Founder), Wojciech Zaremba (OpenAI Co-Founder), Clement Delangue (Hugging Face CEO), and Thomas Dohmke (Former GitHub CEO).",
+      "category": "conversation_patterns",
+      "tags": [
+        "supporters",
+        "AI_pioneers"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I contribute to prompts.chat?",
+      "a": "You can contribute to prompts.chat by adding new prompts through the platform's submission page. Contributions are automatically synced to the library.",
+      "category": "conversation_patterns",
+      "tags": [
+        "contributions",
+        "open_source"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    }
+  ]
+}
