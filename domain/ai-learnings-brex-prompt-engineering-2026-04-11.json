@@ -1,0 +1,97 @@
+{
+  "source": "brex-prompt-engineering",
+  "repo": "brexhq/prompt-engineering",
+  "category": "conversation_patterns",
+  "topic": "Real-world prompt engineering patterns used by engineers",
+  "learnedAt": "2026-04-11T00:21:13.916Z",
+  "entries": [
+    {
+      "q": "What is a large language model?",
+      "a": "A large language model is a prediction engine that takes a sequence of words and tries to predict the most likely sequence to come after that sequence.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "language model"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "How do large language models learn probabilities?",
+      "a": "Large language models learn probabilities by training on large corpuses of text and assigning a probability to likely next sequences.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "training"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the difference between traditional language models and modern language models?",
+      "a": "Traditional language models, such as n-gram models, have deficiencies in terms of state space explosion and working with novel phrases, whereas modern language models, such as transformer networks, can handle these issues more effectively.",
+      "category": "conversation_patterns",
+      "tags": [
+        "language models",
+        "traditional vs modern"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the significance of the Transformer Network paper 'Attention Is All You Need'?",
+      "a": "The paper introduced Transformer Networks, which revolutionized natural language processing by enabling machines to perform tasks like translation nearly as well as humans, and introduced the 'attention' mechanism for efficient emphasis on specific input parts.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Transformer Network",
+        "Attention Is All You Need"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some limitations of Long Short-Term Memory (LSTM) Networks?",
+      "a": "LSTMs struggle with long-term dependencies and process input one token at a time, making them inherently sequential, slow to train, and limited in their ability to predict outcomes based on distant context.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LSTM",
+        "limitations"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the purpose of prompt engineering?",
+      "a": "Prompt engineering is necessary to effectively work with large language models, as it helps to give the model the right input to generate the desired output, and to fine-tune the model for specific use cases.",
+      "category": "conversation_patterns",
+      "tags": [
+        "prompt engineering",
+        "LLM"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are tokens in the context of language models?",
+      "a": "Tokens roughly map to a syllable in a word, or about 4 characters, and are used by language models instead of words.",
+      "category": "conversation_patterns",
+      "tags": [
+        "tokens",
+        "language models"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "How have language models evolved over time?",
+      "a": "Language models have evolved from traditional models like n-gram models, to simple neural networks, to more complex models like LSTMs and Transformer Networks, each addressing limitations and improving performance.",
+      "category": "conversation_patterns",
+      "tags": [
+        "language models",
+        "evolution"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    }
+  ]
+}
