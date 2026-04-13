@@ -1,0 +1,97 @@
+{
+  "source": "awesome-llm",
+  "repo": "Hannibal046/Awesome-LLM",
+  "category": "domain",
+  "topic": "Comprehensive curated knowledge base on large language models, capabilities, research, and real-world applications",
+  "learnedAt": "2026-04-13T00:17:11.559Z",
+  "entries": [
+    {
+      "q": "What is the name of the first-generation reasoning model from DeepSeek?",
+      "a": "DeepSeek-R1",
+      "category": "domain",
+      "tags": [
+        "LLM",
+        "DeepSeek"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Which paper introduced the Transformer model in 2017?",
+      "a": "Attention Is All You Need",
+      "category": "domain",
+      "tags": [
+        "Transformer",
+        "Google"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the name of the open-sourced GPT-4 level model from DeepSeek?",
+      "a": "DeepSeek-V3",
+      "category": "domain",
+      "tags": [
+        "LLM",
+        "GPT-4"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Who developed the BERT model?",
+      "a": "Google",
+      "category": "domain",
+      "tags": [
+        "BERT",
+        "Google"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the name of the MoE language model with 32B active and 1T total parameters?",
+      "a": "Kimi-K2",
+      "category": "domain",
+      "tags": [
+        "LLM",
+        "MoE"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Which paper introduced the concept of Scaling Laws for Neural Language Models in 2020?",
+      "a": "Scaling Laws for Neural Language Models",
+      "category": "domain",
+      "tags": [
+        "Scaling Laws",
+        "OpenAI"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the name of the model that uses a mixture-of-experts approach for efficient scaling of language models?",
+      "a": "GLaM",
+      "category": "domain",
+      "tags": [
+        "LLM",
+        "GLaM"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Who developed the T5 model?",
+      "a": "Google",
+      "category": "domain",
+      "tags": [
+        "T5",
+        "Google"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    }
+  ]
+}
