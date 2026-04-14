@@ -1,0 +1,86 @@
+{
+  "source": "brex-prompt-engineering",
+  "repo": "brexhq/prompt-engineering",
+  "category": "conversation_patterns",
+  "topic": "Real-world prompt engineering patterns used by engineers",
+  "learnedAt": "2026-04-14T04:32:06.480Z",
+  "entries": [
+    {
+      "q": "What is a Large Language Model (LLM)?",
+      "a": "A large language model is a prediction engine that takes a sequence of words and tries to predict the most likely sequence to come after that sequence.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "language model"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "How do Large Language Models learn probabilities?",
+      "a": "Large language models learn probabilities by training on large corpuses of text, assigning a probability to likely next sequences and then sampling from those to choose one.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "training"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the difference between traditional language models and modern language models?",
+      "a": "Traditional language models, such as n-gram models, have deficiencies in terms of state space explosion and working with novel phrases, whereas modern language models, such as neural networks and transformers, can handle these issues more effectively.",
+      "category": "conversation_patterns",
+      "tags": [
+        "language models",
+        "traditional vs modern"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the significance of the Transformer Network in natural language processing?",
+      "a": "The Transformer Network, introduced in 2017, revolutionized natural language processing by enabling machines to perform tasks like translation between languages nearly as well as humans, and introduced a mechanism called 'attention' for efficient emphasis on specific parts of the input.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Transformer Network",
+        "NLP"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some limitations of Long Short-Term Memory (LSTM) Networks?",
+      "a": "LSTMs struggle with long-term dependencies and process input one token at a time, making them inherently sequential, slow to train, and limited in their ability to predict outcomes based on distant context.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LSTM",
+        "limitations"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the purpose of prompt engineering in Large Language Models?",
+      "a": "Prompt engineering is necessary to effectively utilize Large Language Models, as it helps to craft input sequences that elicit specific, desired responses from the model, and to mitigate potential issues such as bias and inconsistency in the output.",
+      "category": "conversation_patterns",
+      "tags": [
+        "prompt engineering",
+        "LLM"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "How do Large Language Models generate text?",
+      "a": "Large Language Models generate text by predicting the most likely sequence of words to come after a given input sequence, based on the probabilities learned from their training data, and sampling from these probabilities to choose the next word or token.",
+      "category": "conversation_patterns",
+      "tags": [
+        "text generation",
+        "LLM"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    }
+  ]
+}
