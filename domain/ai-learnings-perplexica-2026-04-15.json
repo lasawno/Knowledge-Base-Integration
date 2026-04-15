@@ -1,0 +1,104 @@
+{
+  "source": "perplexica",
+  "repo": "ItzCrazyKns/Perplexica",
+  "category": "domain",
+  "topic": "Perplexity AI search methodology, answer synthesis patterns",
+  "learnedAt": "2026-04-15T00:18:53.629Z",
+  "entries": [
+    {
+      "q": "What is Vane?",
+      "a": "Vane is a privacy-focused AI answering engine that runs entirely on your own hardware.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI",
+        "privacy"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the key features of Vane?",
+      "a": "Vane features include support for local LLMs and cloud providers, smart search modes, cited sources, and a private search experience.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "features"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How does Vane support private search?",
+      "a": "Vane uses SearxNG, a private search engine, to keep your searches completely private.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "private search",
+        "SearxNG"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can Vane be installed without Docker?",
+      "a": "Yes, Vane can be installed without Docker by cloning the repository, installing dependencies, building the application, and starting it manually.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "installation",
+        "Docker"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the recommended installation methods for Vane?",
+      "a": "The recommended installation methods for Vane are using Docker or building from source.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "installation",
+        "Docker"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is SearxNG and how is it used in Vane?",
+      "a": "SearxNG is a private search engine that Vane uses to provide private search results. It can be used as a bundled instance with Vane or as a separate instance.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "SearxNG",
+        "private search"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What types of files can Vane understand?",
+      "a": "Vane can understand PDFs, text files, and images, allowing users to upload documents and ask questions about them.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "file uploads",
+        "document understanding"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Does Vane support image and video search?",
+      "a": "Yes, Vane supports image and video search, allowing users to find visual content alongside text results.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "image search",
+        "video search"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    }
+  ]
+}
