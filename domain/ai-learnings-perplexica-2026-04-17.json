@@ -1,0 +1,89 @@
+{
+  "source": "perplexica",
+  "repo": "ItzCrazyKns/Perplexica",
+  "category": "domain",
+  "topic": "Perplexity AI search methodology, answer synthesis patterns",
+  "learnedAt": "2026-04-17T01:35:41.331Z",
+  "entries": [
+    {
+      "q": "What is Vane?",
+      "a": "Vane is a privacy-focused AI answering engine that runs entirely on your own hardware.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI",
+        "privacy"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the key features of Vane?",
+      "a": "Vane's key features include support for local LLMs and cloud providers, smart search modes, cited sources, and a privacy-focused approach.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "features"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How does Vane ensure privacy?",
+      "a": "Vane ensures privacy by running entirely on your own hardware and using a privacy-focused search engine like SearxNG.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "privacy"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What search modes are available in Vane?",
+      "a": "Vane offers three search modes: Speed Mode, Balanced Mode, and Quality Mode.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "search modes"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can Vane be installed without Docker?",
+      "a": "Yes, Vane can be installed without Docker by cloning the repository, installing dependencies, building the application, and starting it manually.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "installation"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the recommended way to install Vane?",
+      "a": "The recommended way to install Vane is by using Docker, as it simplifies the setup process and manages environment variables and dependencies.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "installation",
+        "Docker"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is SearxNG and how is it used in Vane?",
+      "a": "SearxNG is a privacy-focused search engine that is used in Vane to provide search results. Vane can be used with a bundled SearxNG instance or with an existing SearxNG instance.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "SearxNG",
+        "search engine"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    }
+  ]
+}
