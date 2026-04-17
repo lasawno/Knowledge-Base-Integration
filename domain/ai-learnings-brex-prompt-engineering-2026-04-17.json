@@ -1,0 +1,97 @@
+{
+  "source": "brex-prompt-engineering",
+  "repo": "brexhq/prompt-engineering",
+  "category": "conversation_patterns",
+  "topic": "Real-world prompt engineering patterns used by engineers",
+  "learnedAt": "2026-04-17T01:35:53.390Z",
+  "entries": [
+    {
+      "q": "What is a Large Language Model (LLM)?",
+      "a": "A large language model is a prediction engine that takes a sequence of words and tries to predict the most likely sequence to come after that sequence.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "language model"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "How do Large Language Models learn probabilities?",
+      "a": "Large language models learn probabilities by training on large corpuses of text and assigning a probability to likely next sequences.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "training"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the difference between traditional language models and modern language models?",
+      "a": "Traditional language models have deficiencies in terms of an explosion of state space and working with novel phrases, while modern language models, such as those using neural networks and transformers, can handle these issues more effectively.",
+      "category": "conversation_patterns",
+      "tags": [
+        "language models",
+        "traditional vs modern"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the role of attention in Transformer Networks?",
+      "a": "Attention is a mechanism in Transformer Networks that allows the model to efficiently place emphasis on specific parts of the input, enabling it to handle tasks like translation and text generation more effectively.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Transformer Networks",
+        "attention"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some limitations of Long Short-Term Memory (LSTM) Networks?",
+      "a": "LSTMs struggle with long-term dependencies and process input one token at a time, making them inherently sequential and slow to train.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LSTM",
+        "limitations"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the significance of the paper 'Attention Is All You Need' in the development of natural language processing?",
+      "a": "The paper 'Attention Is All You Need' introduced Transformer Networks, which revolutionized natural language processing by enabling machines to perform tasks like translation nearly as well as humans.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Transformer Networks",
+        "Attention Is All You Need"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the purpose of prompt engineering in working with Large Language Models?",
+      "a": "Prompt engineering is necessary to effectively work with Large Language Models, as it helps to craft input sequences that elicit specific and accurate responses from the model.",
+      "category": "conversation_patterns",
+      "tags": [
+        "prompt engineering",
+        "LLM"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some strategies used in prompt engineering for Large Language Models?",
+      "a": "Some strategies used in prompt engineering include embedding data, using citations, programmatic consumption, chain of thought, and fine-tuning.",
+      "category": "conversation_patterns",
+      "tags": [
+        "prompt engineering",
+        "strategies"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    }
+  ]
+}
