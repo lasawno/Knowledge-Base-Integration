@@ -1,0 +1,97 @@
+{
+  "source": "awesome-llm",
+  "repo": "Hannibal046/Awesome-LLM",
+  "category": "domain",
+  "topic": "Comprehensive curated knowledge base on large language models, capabilities, research, and real-world applications",
+  "learnedAt": "2026-04-17T01:36:06.872Z",
+  "entries": [
+    {
+      "q": "What is the name of the first-generation reasoning model from DeepSeek?",
+      "a": "DeepSeek-R1",
+      "category": "domain",
+      "tags": [
+        "LLM",
+        "DeepSeek"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Which paper introduced the concept of Transformers in 2017?",
+      "a": "Attention Is All You Need",
+      "category": "domain",
+      "tags": [
+        "Transformers",
+        "Google"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the name of the open-sourced GPT-4o level model from DeepSeek?",
+      "a": "DeepSeek-V3",
+      "category": "domain",
+      "tags": [
+        "GPT-4o",
+        "DeepSeek"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Which model is known for being a MoE language model with 32B active and 1T total parameters?",
+      "a": "Kimi-K2",
+      "category": "domain",
+      "tags": [
+        "MoE",
+        "Kimi-K2"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the name of the paper that introduced BERT in 2018?",
+      "a": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "category": "domain",
+      "tags": [
+        "BERT",
+        "Google"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Which paper introduced the concept of Switch Transformers in 2021?",
+      "a": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity",
+      "category": "domain",
+      "tags": [
+        "Switch Transformers",
+        "Google"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the name of the model that is a fully open reproduction of DeepSeek-R1?",
+      "a": "open-r1",
+      "category": "domain",
+      "tags": [
+        "open-r1",
+        "DeepSeek-R1"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Which paper introduced the concept of GLaM in 2021?",
+      "a": "GLaM: Efficient Scaling of Language Models with Mixture-of-Experts",
+      "category": "domain",
+      "tags": [
+        "GLaM",
+        "Google"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    }
+  ]
+}
