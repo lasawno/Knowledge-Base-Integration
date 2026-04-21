@@ -1,0 +1,97 @@
+{
+  "source": "anthropic-cookbook",
+  "repo": "anthropics/anthropic-cookbook",
+  "category": "reasoning_techniques",
+  "topic": "Claude AI reasoning patterns and factual response techniques",
+  "learnedAt": "2026-04-21T02:13:42.560Z",
+  "entries": [
+    {
+      "q": "What is the Claude Cookbooks and what does it provide?",
+      "a": "The Claude Cookbooks provides code and guides designed to help developers build with Claude, offering copy-able code snippets that can be easily integrated into projects.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "Claude Cookbooks",
+        "developer resources"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What programming language are the code examples in the Claude Cookbooks primarily written in?",
+      "a": "The code examples in the Claude Cookbooks are primarily written in Python.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "programming language",
+        "Python"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is required to make the most of the examples in the Claude Cookbooks?",
+      "a": "A Claude API key is required to make the most of the examples in the Claude Cookbooks.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "Claude API key",
+        "prerequisites"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "Where can I find more resources to enhance my experience with Claude and AI assistants?",
+      "a": "More resources can be found on the Anthropic developer documentation, Anthropic support docs, and Anthropic Discord community pages.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "additional resources",
+        "Anthropic"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I contribute to the Claude Cookbooks?",
+      "a": "Contributions to the Claude Cookbooks can be made by submitting an idea, fixing a typo, adding a new guide, or improving an existing one, and should be done through the issues page on GitHub.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "contributing",
+        "GitHub"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some of the capabilities of Claude that are explored in the Claude Cookbooks?",
+      "a": "The Claude Cookbooks explore capabilities such as classification, retrieval augmented generation, summarization, and multimodal capabilities like vision and image generation.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "Claude capabilities",
+        "multimodal"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "Are there any advanced techniques for using Claude that are covered in the Claude Cookbooks?",
+      "a": "Yes, the Claude Cookbooks cover advanced techniques such as sub-agents, uploading PDFs, automated evaluations, and prompt caching.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "advanced techniques",
+        "Claude"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can Claude be integrated with external tools and services?",
+      "a": "Yes, Claude can be integrated with external tools and services, such as calculators, SQL databases, and third-party APIs, to extend its capabilities.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "integration",
+        "external tools"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    }
+  ]
+}
