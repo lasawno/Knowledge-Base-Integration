@@ -1,0 +1,100 @@
+{
+  "source": "perplexica",
+  "repo": "ItzCrazyKns/Perplexica",
+  "category": "domain",
+  "topic": "Perplexity AI search methodology, answer synthesis patterns",
+  "learnedAt": "2026-04-22T00:12:46.430Z",
+  "entries": [
+    {
+      "q": "What is Vane and how does it work",
+      "a": "Vane is a privacy-focused AI answering engine that runs on local hardware, combining knowledge from the internet with support for local LLMs and cloud providers, delivering accurate answers with cited sources while keeping searches private.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI",
+        "privacy"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the different search modes available in Vane",
+      "a": "Vane offers three search modes: Speed Mode for quick answers, Balanced Mode for everyday searches, and Quality Mode for deep research.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "search modes"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can Vane search specific domains or sources",
+      "a": "Yes, Vane allows users to search specific domains, websites, discussions, or academic papers, and also supports searching the web, with more sources and integrations in progress.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "search sources"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How does Vane handle file uploads and local data",
+      "a": "Vane allows users to upload documents, including PDFs, text files, and images, and understands them, with all searches and data saved locally for revisiting discoveries anytime.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "file uploads",
+        "local data"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the available installation methods for Vane",
+      "a": "Vane can be installed using Docker, which is highly recommended, or without Docker by installing dependencies, building the application, and starting it manually.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "installation"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the benefits of using Docker for Vane installation",
+      "a": "Using Docker for Vane installation simplifies the setup process, especially for managing environment variables and dependencies, and creates persistent volumes for data and uploaded files.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "Docker",
+        "installation"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can Vane be used with existing SearxNG instances",
+      "a": "Yes, Vane can be used with existing SearxNG instances by running the slim version of Vane and configuring the SearxNG API URL in the setup screen.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "SearxNG"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the system requirements for running Vane",
+      "a": "Vane requires Docker to be installed and running on the system, and for non-Docker installations, it requires dependencies to be installed and the application to be built and started manually.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "system requirements"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    }
+  ]
+}
