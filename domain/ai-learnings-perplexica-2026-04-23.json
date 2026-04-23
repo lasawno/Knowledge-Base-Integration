@@ -1,0 +1,101 @@
+{
+  "source": "perplexica",
+  "repo": "ItzCrazyKns/Perplexica",
+  "category": "domain",
+  "topic": "Perplexity AI search methodology, answer synthesis patterns",
+  "learnedAt": "2026-04-23T02:13:06.783Z",
+  "entries": [
+    {
+      "q": "What is Vane and what does it do?",
+      "a": "Vane is a privacy-focused AI answering engine that runs entirely on your own hardware, combining knowledge from the internet with support for local LLMs and cloud providers, delivering accurate answers with cited sources while keeping searches private.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI",
+        "privacy"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the different search modes available in Vane?",
+      "a": "Vane offers three search modes: Speed Mode for quick answers, Balanced Mode for everyday searches, and Quality Mode for deep research.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "search modes"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can Vane search specific domains or sources?",
+      "a": "Yes, Vane allows you to search specific websites, discussions, or academic papers, and also supports searching within uploaded documents.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "search sources"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How does Vane handle image and video search?",
+      "a": "Vane supports image and video search, allowing you to find visual content alongside text results, and is not limited to just articles.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "image search",
+        "video search"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the recommended way to install Vane?",
+      "a": "The recommended way to install Vane is by using Docker, which simplifies the setup process and manages environment variables and dependencies.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "installation",
+        "Docker"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can Vane be used with other search engines or AI providers?",
+      "a": "Yes, Vane supports multiple search engines, including SearxNG, and can be used with various AI providers, such as OpenAI, Claude, and Groq, allowing you to mix and match models based on your needs.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "search engines",
+        "AI providers"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some of the key features of Vane?",
+      "a": "Vane features include smart search modes, support for local LLMs and cloud providers, cited sources, privacy-focused, and various UI widgets for helpful information, such as weather, calculations, and stock prices.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "features"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I get started with using Vane?",
+      "a": "You can get started with Vane by installing it using Docker, configuring your settings, and accessing it through your web browser at http://localhost:3000.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "getting started"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    }
+  ]
+}
