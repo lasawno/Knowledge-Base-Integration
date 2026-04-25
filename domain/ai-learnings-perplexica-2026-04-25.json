@@ -1,0 +1,88 @@
+{
+  "source": "perplexica",
+  "repo": "ItzCrazyKns/Perplexica",
+  "category": "domain",
+  "topic": "Perplexity AI search methodology, answer synthesis patterns",
+  "learnedAt": "2026-04-25T02:13:16.260Z",
+  "entries": [
+    {
+      "q": "What is Vane and what does it do",
+      "a": "Vane is a privacy-focused AI answering engine that runs entirely on your own hardware, combining knowledge from the internet with support for local LLMs and cloud providers, delivering accurate answers with cited sources while keeping searches private.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI",
+        "privacy"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the different search modes available in Vane",
+      "a": "Vane offers three search modes: Speed Mode for quick answers, Balanced Mode for everyday searches, and Quality Mode for deep research.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "search modes"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What sources can Vane search",
+      "a": "Vane can search the web, discussions, academic papers, and more, with the ability to pick specific sources and integrations, including support for Tavily and Exa.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "search sources"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How does Vane handle image and video search",
+      "a": "Vane allows for image and video search alongside text results, making it possible to find visual content easily.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "image search",
+        "video search"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can Vane upload and understand different file types",
+      "a": "Yes, Vane supports uploading documents and understanding various file types, including PDFs, text files, and images.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "file uploads"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can Vane be installed",
+      "a": "Vane can be installed using Docker, which is the recommended method, or without Docker by cloning the repository, installing dependencies, building the application, and starting it.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "installation"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the role of SearxNG in Vane",
+      "a": "SearxNG is a search engine that Vane uses to power its web search, allowing for private and customizable search results, and can be used with Vane's bundled instance or with an existing SearxNG instance.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "SearxNG"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    }
+  ]
+}
