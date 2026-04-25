@@ -1,0 +1,97 @@
+{
+  "source": "anthropic-cookbook",
+  "repo": "anthropics/anthropic-cookbook",
+  "category": "reasoning_techniques",
+  "topic": "Claude AI reasoning patterns and factual response techniques",
+  "learnedAt": "2026-04-25T02:13:49.659Z",
+  "entries": [
+    {
+      "q": "What is the Claude Cookbooks and what does it provide?",
+      "a": "The Claude Cookbooks provides code and guides designed to help developers build with Claude, offering copy-able code snippets that can be easily integrated into projects.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "Claude Cookbooks",
+        "developer resources"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What programming language are the code examples in the Claude Cookbooks primarily written in?",
+      "a": "The code examples in the Claude Cookbooks are primarily written in Python.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "programming language",
+        "Python"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is required to make the most of the examples in the Claude Cookbooks?",
+      "a": "A Claude API key is required to make the most of the examples in the Claude Cookbooks.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "Claude API key",
+        "prerequisites"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "Where can developers find more resources to enhance their experience with Claude and AI assistants?",
+      "a": "Developers can find more resources to enhance their experience with Claude and AI assistants at the Anthropic developer documentation, Anthropic support docs, and Anthropic Discord community.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "additional resources",
+        "Anthropic"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can developers contribute to the Claude Cookbooks?",
+      "a": "Developers can contribute to the Claude Cookbooks by submitting an idea, fixing a typo, adding a new guide, or improving an existing one, and can share their ideas on the issues page.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "contributing",
+        "Claude Cookbooks"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some of the capabilities of Claude that are explored in the Claude Cookbooks?",
+      "a": "The Claude Cookbooks explore capabilities such as classification, retrieval augmented generation, summarization, and multimodal capabilities like vision and image generation.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "Claude capabilities",
+        "multimodal"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is Retrieval Augmented Generation and how can it be used with Claude?",
+      "a": "Retrieval Augmented Generation is a technique that enhances Claude's responses with external knowledge, and can be used by integrating Claude with external data sources like vector databases or web pages.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "Retrieval Augmented Generation",
+        "external knowledge"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some of the advanced techniques that can be used with Claude?",
+      "a": "Some advanced techniques that can be used with Claude include sub-agents, uploading PDFs, automated evaluations, enabling JSON mode, creating a moderation filter, and prompt caching.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "advanced techniques",
+        "Claude"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    }
+  ]
+}
