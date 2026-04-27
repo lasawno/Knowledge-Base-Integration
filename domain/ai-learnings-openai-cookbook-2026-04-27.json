@@ -1,0 +1,94 @@
+{
+  "source": "openai-cookbook",
+  "repo": "openai/openai-cookbook",
+  "category": "domain",
+  "topic": "Practical OpenAI and ChatGPT usage patterns, real use cases",
+  "learnedAt": "2026-04-27T14:19:00.572Z",
+  "entries": [
+    {
+      "q": "What is the OpenAI Cookbook and where can I find it?",
+      "a": "The OpenAI Cookbook is a resource for example code and guides on using the OpenAI API, and it can be found at cookbook.openai.com.",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "Cookbook",
+        "API"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What do I need to run the examples in the OpenAI Cookbook?",
+      "a": "To run the examples in the OpenAI Cookbook, you need an OpenAI account and an associated API key.",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "API Key",
+        "Account"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I set up my OpenAI API key in my development environment?",
+      "a": "You can set an environment variable called OPENAI_API_KEY with your API key, or create an .env file at the root of your repository containing OPENAI_API_KEY=<your API key>.",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "API Key",
+        "Environment Variable"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What programming language are the code examples in the OpenAI Cookbook written in?",
+      "a": "Most code examples in the OpenAI Cookbook are written in Python.",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "Cookbook",
+        "Python"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can the concepts in the OpenAI Cookbook be applied to other programming languages?",
+      "a": "Yes, the concepts in the OpenAI Cookbook can be applied to any programming language.",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "Cookbook",
+        "Programming Languages"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What type of license does the OpenAI Cookbook use?",
+      "a": "The OpenAI Cookbook uses the MIT License.",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "Cookbook",
+        "License"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "Where can I find related resources and courses for using the OpenAI API?",
+      "a": "You can find related resources and courses for using the OpenAI API at cookbook.openai.com/related_resources.",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "API",
+        "Resources",
+        "Courses"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    }
+  ]
+}
