@@ -1,0 +1,97 @@
+{
+  "source": "prompt-engineering-guide",
+  "repo": "dair-ai/Prompt-Engineering-Guide",
+  "category": "reasoning_techniques",
+  "topic": "AI reasoning techniques, chain-of-thought, factual AI knowledge",
+  "learnedAt": "2026-04-29T01:02:08.173Z",
+  "entries": [
+    {
+      "q": "What is prompt engineering?",
+      "a": "Prompt engineering is a discipline for developing and optimizing prompts to efficiently use language models for various applications and research topics.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt engineering",
+        "language models"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the purpose of prompt engineering?",
+      "a": "The purpose of prompt engineering is to improve the capacity of large language models on a wide range of common and complex tasks such as question answering and arithmetic reasoning.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt engineering",
+        "language models"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is chain-of-thought prompting?",
+      "a": "Chain-of-thought prompting is a technique used in prompt engineering that involves generating a series of intermediate thoughts or steps to arrive at a final answer.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt engineering",
+        "chain-of-thought"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some applications of prompt engineering?",
+      "a": "Some applications of prompt engineering include function calling, generating data, generating synthetic datasets for RAG, generating code, and graduate job classification case studies.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt engineering",
+        "applications"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is Retrieval Augmented Generation (RAG)?",
+      "a": "Retrieval Augmented Generation (RAG) is a technique used in prompt engineering that involves retrieving relevant information from a knowledge base and generating text based on that information.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt engineering",
+        "RAG"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is Automatic Reasoning and Tool-use (ART)?",
+      "a": "Automatic Reasoning and Tool-use (ART) is a technique used in prompt engineering that involves using automated reasoning and tool-use to generate text and solve problems.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt engineering",
+        "ART"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some techniques used in prompt engineering?",
+      "a": "Some techniques used in prompt engineering include zero-shot prompting, few-shot prompting, chain-of-thought prompting, self-consistency, generate knowledge prompting, and prompt chaining.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt engineering",
+        "techniques"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the role of prompt engineering in language models?",
+      "a": "Prompt engineering plays a crucial role in language models by helping to improve their performance and capabilities on a wide range of tasks, and by providing a way to optimize and fine-tune language models for specific applications.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt engineering",
+        "language models"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    }
+  ]
+}
