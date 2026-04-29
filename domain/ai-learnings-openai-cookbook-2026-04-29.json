@@ -1,0 +1,105 @@
+{
+  "source": "openai-cookbook",
+  "repo": "openai/openai-cookbook",
+  "category": "domain",
+  "topic": "Practical OpenAI and ChatGPT usage patterns, real use cases",
+  "learnedAt": "2026-04-29T01:02:35.472Z",
+  "entries": [
+    {
+      "q": "What is the OpenAI Cookbook and where can I access it",
+      "a": "The OpenAI Cookbook is a resource for example code and guides on using the OpenAI API, accessible at cookbook.openai.com",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "API",
+        "Cookbook"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What do I need to run the examples in the OpenAI Cookbook",
+      "a": "To run the examples, you need an OpenAI account and an associated API key",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "API Key",
+        "Account"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I store my OpenAI API key for use in code examples",
+      "a": "You can store your API key as an environment variable called OPENAI_API_KEY or in a .env file at the root of your repository",
+      "category": "domain",
+      "tags": [
+        "API Key",
+        "Environment Variable",
+        ".env File"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What programming language are most code examples in the OpenAI Cookbook written in",
+      "a": "Most code examples are written in Python, but the concepts can be applied in any language",
+      "category": "domain",
+      "tags": [
+        "Python",
+        "Code Examples",
+        "OpenAI"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What type of license does the OpenAI Cookbook use",
+      "a": "The OpenAI Cookbook uses the MIT License",
+      "category": "domain",
+      "tags": [
+        "License",
+        "MIT",
+        "OpenAI"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "Where can I find related resources and courses for using OpenAI",
+      "a": "Related resources and courses can be found on the OpenAI Cookbook website, at cookbook.openai.com/related_resources",
+      "category": "domain",
+      "tags": [
+        "Resources",
+        "Courses",
+        "OpenAI"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "How do I create a free OpenAI account to get an API key",
+      "a": "You can create a free OpenAI account at platform.openai.com/signup",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "Account",
+        "Signup"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the purpose of setting an environment variable called OPENAI_API_KEY",
+      "a": "Setting an environment variable called OPENAI_API_KEY allows you to store your API key for use in code examples without having to hardcode it",
+      "category": "domain",
+      "tags": [
+        "Environment Variable",
+        "API Key",
+        "Security"
+      ],
+      "source": "openai/openai-cookbook",
+      "confidence": 0.82
+    }
+  ]
+}
