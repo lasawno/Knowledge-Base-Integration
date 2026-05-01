@@ -1,0 +1,97 @@
+{
+  "source": "awesome-llm",
+  "repo": "Hannibal046/Awesome-LLM",
+  "category": "domain",
+  "topic": "Comprehensive curated knowledge base on large language models, capabilities, research, and real-world applications",
+  "learnedAt": "2026-05-01T01:05:36.672Z",
+  "entries": [
+    {
+      "q": "What is the name of the first-generation reasoning model from DeepSeek?",
+      "a": "DeepSeek-R1",
+      "category": "domain",
+      "tags": [
+        "LLM",
+        "DeepSeek"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Which paper introduced the concept of Transformers in 2017?",
+      "a": "Attention Is All You Need",
+      "category": "domain",
+      "tags": [
+        "Transformers",
+        "Google"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the name of the open-sourced GPT-4o level model from DeepSeek?",
+      "a": "DeepSeek-V3",
+      "category": "domain",
+      "tags": [
+        "GPT-4o",
+        "DeepSeek"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Which model is known for pushing the frontier of cost-effective reasoning?",
+      "a": "OpenAI o3-mini",
+      "category": "domain",
+      "tags": [
+        "OpenAI",
+        "o3-mini"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the name of the MoE language model with 32B active and 1T total parameters?",
+      "a": "Kimi-K2",
+      "category": "domain",
+      "tags": [
+        "Kimi-K2",
+        "MoE"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Which paper introduced the concept of BERT in 2018?",
+      "a": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "category": "domain",
+      "tags": [
+        "BERT",
+        "Google"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the name of the model that explores the intelligence of large-scale MoE models?",
+      "a": "Qwen2.5-Max",
+      "category": "domain",
+      "tags": [
+        "Qwen2.5-Max",
+        "MoE"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Which paper introduced the concept of GPT 1.0 in 2018?",
+      "a": "Improving Language Understanding by Generative Pre-Training",
+      "category": "domain",
+      "tags": [
+        "GPT 1.0",
+        "OpenAI"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    }
+  ]
+}
