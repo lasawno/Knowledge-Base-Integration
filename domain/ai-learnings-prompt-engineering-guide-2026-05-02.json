@@ -1,0 +1,97 @@
+{
+  "source": "prompt-engineering-guide",
+  "repo": "dair-ai/Prompt-Engineering-Guide",
+  "category": "reasoning_techniques",
+  "topic": "AI reasoning techniques, chain-of-thought, factual AI knowledge",
+  "learnedAt": "2026-05-02T01:01:54.472Z",
+  "entries": [
+    {
+      "q": "What is prompt engineering?",
+      "a": "Prompt engineering is a discipline for developing and optimizing prompts to efficiently use language models for various applications and research topics.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "reasoning_techniques",
+        "prompt_engineering"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is chain-of-thought prompting?",
+      "a": "Chain-of-thought prompting is a technique used in prompt engineering that involves generating a series of intermediate steps to arrive at a final answer.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "reasoning_techniques",
+        "chain_of_thought"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the applications of prompt engineering?",
+      "a": "Prompt engineering has various applications, including function calling, generating data, generating synthetic datasets, generating code, and more.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "reasoning_techniques",
+        "applications"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is zero-shot prompting?",
+      "a": "Zero-shot prompting is a technique in prompt engineering where a language model is asked to perform a task without any prior examples or training data.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "reasoning_techniques",
+        "zero_shot"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is few-shot prompting?",
+      "a": "Few-shot prompting is a technique in prompt engineering where a language model is provided with a few examples of a task to learn from before performing the task.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "reasoning_techniques",
+        "few_shot"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is retrieval augmented generation?",
+      "a": "Retrieval augmented generation is a technique in prompt engineering that combines the strengths of retrieval-based and generation-based approaches to improve the performance of language models.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "reasoning_techniques",
+        "retrieval_augmented_generation"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some common techniques used in prompt engineering?",
+      "a": "Some common techniques used in prompt engineering include chain-of-thought prompting, zero-shot prompting, few-shot prompting, self-consistency, generate knowledge prompting, and prompt chaining.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "reasoning_techniques",
+        "techniques"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the goal of prompt engineering?",
+      "a": "The goal of prompt engineering is to develop and optimize prompts to efficiently use language models for various applications and research topics, and to improve the capacity of large language models on a wide range of tasks.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "reasoning_techniques",
+        "goal"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    }
+  ]
+}
