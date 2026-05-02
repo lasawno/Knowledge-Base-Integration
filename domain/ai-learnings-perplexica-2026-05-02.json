@@ -1,0 +1,105 @@
+{
+  "source": "perplexica",
+  "repo": "ItzCrazyKns/Perplexica",
+  "category": "domain",
+  "topic": "Perplexity AI search methodology, answer synthesis patterns",
+  "learnedAt": "2026-05-02T01:03:21.659Z",
+  "entries": [
+    {
+      "q": "What is Vane?",
+      "a": "Vane is a privacy-focused AI answering engine that runs entirely on your own hardware.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI",
+        "privacy"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the key features of Vane?",
+      "a": "Vane features include support for local LLMs and cloud providers, smart search modes, cited sources, and privacy-focused web search powered by SearxNG.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "features",
+        "LLMs"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I install Vane?",
+      "a": "Vane can be installed using Docker or without Docker. Using Docker is highly recommended as it simplifies the setup process.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "installation",
+        "Docker"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is SearxNG and how is it related to Vane?",
+      "a": "SearxNG is a search engine that Vane uses to power its web search functionality. Vane can be used with a bundled SearxNG instance or with an existing SearxNG installation.",
+      "category": "domain",
+      "tags": [
+        "SearxNG",
+        "Vane",
+        "search engine"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can I use Vane with my own SearxNG instance?",
+      "a": "Yes, you can use Vane with your own SearxNG instance by configuring the SEARXNG_API_URL environment variable.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "SearxNG",
+        "configuration"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the benefits of using Vane?",
+      "a": "Vane provides accurate answers with cited sources while keeping your searches completely private, making it a great option for those who value privacy and accuracy.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "benefits",
+        "privacy"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I configure my AI provider settings in Vane?",
+      "a": "You can configure your AI provider settings in the setup screen at http://localhost:3000 after installing and running Vane.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI provider",
+        "configuration"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Is Vane open-source?",
+      "a": "Yes, Vane is an open-source project, and its development is powered by the generous support of its sponsors.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "open-source",
+        "sponsors"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    }
+  ]
+}
