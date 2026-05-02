@@ -1,0 +1,107 @@
+{
+  "source": "anthropic-cookbook",
+  "repo": "anthropics/anthropic-cookbook",
+  "category": "reasoning_techniques",
+  "topic": "Claude AI reasoning patterns and factual response techniques",
+  "learnedAt": "2026-05-02T01:04:02.273Z",
+  "entries": [
+    {
+      "q": "What is the Claude Cookbooks and what does it provide?",
+      "a": "The Claude Cookbooks provides code and guides designed to help developers build with Claude, offering copy-able code snippets that can be easily integrated into projects.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "Claude Cookbooks",
+        "developer resources"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What programming language are the code examples in the Claude Cookbooks primarily written in?",
+      "a": "The code examples in the Claude Cookbooks are primarily written in Python.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "programming language",
+        "Python"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is required to make the most of the examples in the Claude Cookbooks?",
+      "a": "A Claude API key is required to make the most of the examples in the Claude Cookbooks.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "Claude API key",
+        "requirements"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some of the capabilities of Claude that can be explored in the Claude Cookbooks?",
+      "a": "Some of the capabilities of Claude that can be explored in the Claude Cookbooks include classification, retrieval augmented generation, and summarization.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "Claude capabilities",
+        "classification",
+        "retrieval augmented generation",
+        "summarization"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can developers contribute to the Claude Cookbooks?",
+      "a": "Developers can contribute to the Claude Cookbooks by submitting an idea, fixing a typo, adding a new guide, or improving an existing one.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "contributing",
+        "developer community"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some of the advanced techniques that can be learned from the Claude Cookbooks?",
+      "a": "Some of the advanced techniques that can be learned from the Claude Cookbooks include using sub-agents, uploading PDFs to Claude, automated evaluations, and prompt caching.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "advanced techniques",
+        "sub-agents",
+        "PDF upload",
+        "automated evaluations",
+        "prompt caching"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "Are there any additional resources available for developers working with Claude?",
+      "a": "Yes, there are additional resources available for developers working with Claude, including the Anthropic developer documentation, Anthropic support docs, and Anthropic Discord community.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "additional resources",
+        "Anthropic developer documentation",
+        "Anthropic support docs",
+        "Anthropic Discord community"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can Claude be integrated with external tools and functions to extend its capabilities?",
+      "a": "Yes, Claude can be integrated with external tools and functions to extend its capabilities, such as customer service agents, calculators, and SQL queries.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "integration",
+        "external tools",
+        "customer service agents",
+        "calculators",
+        "SQL queries"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    }
+  ]
+}
