@@ -1,0 +1,97 @@
+{
+  "source": "prompt-engineering-guide",
+  "repo": "dair-ai/Prompt-Engineering-Guide",
+  "category": "reasoning_techniques",
+  "topic": "AI reasoning techniques, chain-of-thought, factual AI knowledge",
+  "learnedAt": "2026-05-03T04:05:03.228Z",
+  "entries": [
+    {
+      "q": "What is prompt engineering?",
+      "a": "Prompt engineering is a discipline for developing and optimizing prompts to efficiently use language models for various applications and research topics.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt_engineering",
+        "language_models"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the benefits of prompt engineering?",
+      "a": "Prompt engineering helps to better understand the capabilities and limitations of large language models and improves their capacity on common and complex tasks such as question answering and arithmetic reasoning.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt_engineering",
+        "benefits"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is chain-of-thought prompting?",
+      "a": "Chain-of-thought prompting is a technique used in prompt engineering that involves generating a series of intermediate thoughts or steps to arrive at a final answer or solution.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "chain_of_thought",
+        "prompting_techniques"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some applications of prompt engineering?",
+      "a": "Prompt engineering has various applications, including function calling, generating data, generating synthetic datasets for retrieval augmented generation, generating code, and graduate job classification case studies.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt_engineering",
+        "applications"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is retrieval augmented generation (RAG)?",
+      "a": "Retrieval augmented generation is a technique used in prompt engineering that involves combining a retriever model with a generator model to produce more accurate and informative responses.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "retrieval_augmented_generation",
+        "RAG"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the purpose of the Prompt Engineering Guide?",
+      "a": "The Prompt Engineering Guide is a resource that contains the latest papers, learning guides, lectures, references, and tools related to prompt engineering for large language models, aiming to help developers and researchers improve their understanding and use of prompt engineering techniques.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt_engineering_guide",
+        "resources"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the DAIR.AI Academy?",
+      "a": "The DAIR.AI Academy is an online learning platform that offers courses and training programs on prompt engineering, context engineering, and AI agents, providing a hands-on approach to learning about these topics.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "DAIR.AI_Academy",
+        "online_learning"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some techniques used in prompt engineering?",
+      "a": "Some techniques used in prompt engineering include zero-shot prompting, few-shot prompting, chain-of-thought prompting, self-consistency, generate knowledge prompting, prompt chaining, and retrieval augmented generation, among others.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompting_techniques",
+        "techniques"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    }
+  ]
+}
