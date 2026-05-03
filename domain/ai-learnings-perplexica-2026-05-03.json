@@ -1,0 +1,102 @@
+{
+  "source": "perplexica",
+  "repo": "ItzCrazyKns/Perplexica",
+  "category": "domain",
+  "topic": "Perplexity AI search methodology, answer synthesis patterns",
+  "learnedAt": "2026-05-03T04:07:25.630Z",
+  "entries": [
+    {
+      "q": "What is Vane?",
+      "a": "Vane is a privacy-focused AI answering engine that runs entirely on your own hardware.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI",
+        "privacy"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the key features of Vane?",
+      "a": "Vane's key features include support for local LLMs and cloud providers, smart search modes, cited sources, and a privacy-focused approach.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "features"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How does Vane ensure privacy?",
+      "a": "Vane ensures privacy by running entirely on your own hardware and using a privacy-focused search engine, SearxNG.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "privacy",
+        "SearxNG"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What search modes are available in Vane?",
+      "a": "Vane offers three search modes: Speed Mode, Balanced Mode, and Quality Mode.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "search modes"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can Vane search specific domains?",
+      "a": "Yes, Vane allows you to limit your search to specific websites or domains.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "domain search"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I install Vane?",
+      "a": "Vane can be installed using Docker or by building from source. Docker is the recommended method.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "installation",
+        "Docker"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is SearxNG and how is it used in Vane?",
+      "a": "SearxNG is a privacy-focused search engine that Vane uses to provide search results. It can be used as a bundled engine or with an existing instance.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "SearxNG",
+        "search engine"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can I use Vane with my own SearxNG instance?",
+      "a": "Yes, you can use Vane with your own SearxNG instance by configuring the SEARXNG_API_URL environment variable.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "SearxNG",
+        "custom instance"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    }
+  ]
+}
