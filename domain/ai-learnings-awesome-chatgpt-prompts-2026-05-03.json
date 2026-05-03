@@ -1,0 +1,93 @@
+{
+  "source": "awesome-chatgpt-prompts",
+  "repo": "f/awesome-chatgpt-prompts",
+  "category": "conversation_patterns",
+  "topic": "ChatGPT prompting strategies and real-world use cases",
+  "learnedAt": "2026-05-03T04:04:11.831Z",
+  "entries": [
+    {
+      "q": "What is prompts.chat?",
+      "a": "Prompts.chat is the world's largest open-source prompt library for AI, providing a curated collection of prompt examples for various AI chat models, including ChatGPT, Claude, Gemini, Llama, and Mistral.",
+      "category": "conversation_patterns",
+      "tags": [
+        "prompts",
+        "AI",
+        "library"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I contribute to prompts.chat?",
+      "a": "You can contribute by adding prompts at prompts.chat/prompts/new, where they will sync automatically to the library.",
+      "category": "conversation_patterns",
+      "tags": [
+        "contribution",
+        "community",
+        "prompts"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the Interactive Book of Prompting?",
+      "a": "The Interactive Book of Prompting is a free, interactive guide with over 25 chapters that cover everything from basic to advanced prompting techniques, including chain-of-thought reasoning and few-shot learning.",
+      "category": "conversation_patterns",
+      "tags": [
+        "education",
+        "prompting",
+        "guide"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the purpose of 'Prompting for Kids'?",
+      "a": "'Prompting for Kids' is an interactive, game-based adventure designed to teach children aged 8-14 how to communicate with AI through fun puzzles and stories.",
+      "category": "conversation_patterns",
+      "tags": [
+        "education",
+        "children",
+        "AI"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I self-host my own prompt library?",
+      "a": "You can self-host by using the command 'npx prompts.chat new my-prompt-library' to create a new library, followed by 'cd my-prompt-library' to navigate into it. A setup wizard will help configure branding, themes, and authentication.",
+      "category": "conversation_patterns",
+      "tags": [
+        "self-hosting",
+        "setup",
+        "prompts"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What integrations are available with prompts.chat?",
+      "a": "Prompts.chat offers integrations such as a command-line interface (CLI) for easy access, a Claude Code Plugin for enhanced functionality, and the ability to use it as an MCP server in AI tools.",
+      "category": "conversation_patterns",
+      "tags": [
+        "integration",
+        "CLI",
+        "MCP"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some advanced prompting techniques covered in the Interactive Book?",
+      "a": "The Interactive Book covers advanced techniques such as chain-of-thought reasoning and few-shot learning, which help improve the effectiveness of AI interactions.",
+      "category": "conversation_patterns",
+      "tags": [
+        "advanced techniques",
+        "prompting",
+        "AI"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    }
+  ]
+}
