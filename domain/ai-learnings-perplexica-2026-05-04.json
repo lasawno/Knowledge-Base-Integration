@@ -1,0 +1,102 @@
+{
+  "source": "perplexica",
+  "repo": "ItzCrazyKns/Perplexica",
+  "category": "domain",
+  "topic": "Perplexity AI search methodology, answer synthesis patterns",
+  "learnedAt": "2026-05-04T04:05:49.331Z",
+  "entries": [
+    {
+      "q": "What is Vane?",
+      "a": "Vane is a privacy-focused AI answering engine that runs entirely on your own hardware.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI",
+        "privacy"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the key features of Vane?",
+      "a": "Vane features include support for local LLMs and cloud providers, smart search modes, cited sources, and a private search experience.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "features"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How does Vane support multiple AI providers?",
+      "a": "Vane supports all major AI providers, including OpenAI, Anthropic Claude, Google Gemini, and Groq, allowing users to mix and match models based on their needs.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI providers"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is SearxNG and how is it used in Vane?",
+      "a": "SearxNG is a search engine used in Vane to provide private web search results. Vane can be run with a bundled SearxNG instance or connected to an existing one.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "SearxNG",
+        "search engine"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I install Vane?",
+      "a": "Vane can be installed using Docker, which is the recommended method, or without Docker by installing dependencies and building the application manually.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "installation"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the benefits of using Docker to install Vane?",
+      "a": "Using Docker to install Vane simplifies the setup process, especially for managing environment variables and dependencies.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "Docker",
+        "installation"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can I use Vane with my own SearxNG instance?",
+      "a": "Yes, Vane can be used with your own SearxNG instance by running the slim version of Vane and configuring the SearxNG API URL.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "SearxNG",
+        "custom instance"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the purpose of the Discover feature in Vane?",
+      "a": "The Discover feature in Vane allows users to browse interesting articles and trending content throughout the day, helping them stay informed without having to search.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "Discover",
+        "features"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    }
+  ]
+}
