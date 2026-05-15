@@ -1,0 +1,97 @@
+{
+  "source": "brex-prompt-engineering",
+  "repo": "brexhq/prompt-engineering",
+  "category": "conversation_patterns",
+  "topic": "Real-world prompt engineering patterns used by engineers",
+  "learnedAt": "2026-05-15T13:24:51.842Z",
+  "entries": [
+    {
+      "q": "What is a Large Language Model (LLM)?",
+      "a": "A Large Language Model is a prediction engine that takes a sequence of words and tries to predict the most likely sequence to come after that sequence.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "Language Model"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "How do Large Language Models learn probabilities?",
+      "a": "Large Language Models learn probabilities by training on large corpuses of text, which allows them to cater to specific use cases and generate statements that seem plausible.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "Training"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the difference between traditional language models and modern language models?",
+      "a": "Traditional language models, such as n-gram models, have deficiencies in terms of state space explosion and working with novel phrases, whereas modern language models, such as neural networks and transformers, can handle these issues more effectively.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Language Models",
+        "Traditional vs Modern"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the significance of the Transformer Network in natural language processing?",
+      "a": "The Transformer Network, introduced in 2017, revolutionized natural language processing by enabling machines to perform tasks like language translation nearly as well as humans, and introduced a mechanism called 'attention' for efficient emphasis on specific input parts.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Transformer Network",
+        "NLP"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some limitations of Long Short-Term Memory (LSTM) Networks?",
+      "a": "LSTM Networks struggle with long-term dependencies and process input one token at a time, making them inherently sequential, slow to train, and limited in their ability to predict outcomes based on distant context.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LSTM",
+        "Limitations"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the purpose of prompt engineering in Large Language Models?",
+      "a": "Prompt engineering is necessary to effectively utilize Large Language Models, as it helps to give the model the right input to produce the desired output, and to teach the model to generate coherent and relevant text.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Prompt Engineering",
+        "LLM"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "How do Large Language Models generate text?",
+      "a": "Large Language Models generate text by assigning a probability to likely next sequences and then sampling from those to choose one, repeating the process until a stopping criteria is met.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "Text Generation"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some key concepts in prompt engineering for Large Language Models?",
+      "a": "Key concepts in prompt engineering include embedding data, citations, programmatic consumption, chain of thought, and fine-tuning, which help to improve the model's performance and generate high-quality output.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Prompt Engineering",
+        "Key Concepts"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    }
+  ]
+}
