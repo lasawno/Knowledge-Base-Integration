@@ -1,0 +1,97 @@
+{
+  "source": "prompt-engineering-guide",
+  "repo": "dair-ai/Prompt-Engineering-Guide",
+  "category": "reasoning_techniques",
+  "topic": "AI reasoning techniques, chain-of-thought, factual AI knowledge",
+  "learnedAt": "2026-05-19T05:11:43.850Z",
+  "entries": [
+    {
+      "q": "What is prompt engineering?",
+      "a": "Prompt engineering is a discipline for developing and optimizing prompts to efficiently use language models for various applications and research topics.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "reasoning_techniques",
+        "prompt_engineering"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is chain-of-thought prompting?",
+      "a": "Chain-of-thought prompting is a technique used in prompt engineering that involves generating a series of intermediate steps to arrive at a final answer.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "reasoning_techniques",
+        "chain_of_thought"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the applications of prompt engineering?",
+      "a": "Prompt engineering has various applications, including function calling, generating data, generating synthetic datasets, generating code, and graduate job classification, among others.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "reasoning_techniques",
+        "applications"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is zero-shot prompting?",
+      "a": "Zero-shot prompting is a technique in prompt engineering where a language model is given a prompt without any prior examples or training data, and it must generate a response based on its understanding of the prompt.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "reasoning_techniques",
+        "zero_shot"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is few-shot prompting?",
+      "a": "Few-shot prompting is a technique in prompt engineering where a language model is given a few examples of a task or prompt, and it must learn to generate responses based on those examples.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "reasoning_techniques",
+        "few_shot"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is retrieval augmented generation (RAG)?",
+      "a": "Retrieval augmented generation (RAG) is a technique in prompt engineering that involves using a retrieval mechanism to fetch relevant information from a knowledge base and then generating text based on that information.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "reasoning_techniques",
+        "RAG"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is automatic reasoning and tool-use (ART)?",
+      "a": "Automatic reasoning and tool-use (ART) is a technique in prompt engineering that involves using language models to reason and use tools to solve complex tasks.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "reasoning_techniques",
+        "ART"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the purpose of the Prompt Engineering Guide?",
+      "a": "The Prompt Engineering Guide is a resource that provides information, tools, and techniques for developing and optimizing prompts to efficiently use language models for various applications and research topics.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "reasoning_techniques",
+        "prompt_engineering_guide"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    }
+  ]
+}
