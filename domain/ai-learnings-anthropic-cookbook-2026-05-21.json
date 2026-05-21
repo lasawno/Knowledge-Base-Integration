@@ -1,0 +1,97 @@
+{
+  "source": "anthropic-cookbook",
+  "repo": "anthropics/anthropic-cookbook",
+  "category": "reasoning_techniques",
+  "topic": "Claude AI reasoning patterns and factual response techniques",
+  "learnedAt": "2026-05-21T05:14:39.349Z",
+  "entries": [
+    {
+      "q": "What are the prerequisites for using the Claude Cookbooks?",
+      "a": "To use the Claude Cookbooks effectively, you need a Claude API key, which can be obtained for free. The examples are primarily in Python but can be adapted to any programming language that supports the Claude API.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prerequisites",
+        "Claude API"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What resources are available for beginners to learn about the Claude API?",
+      "a": "Beginners can start with the Claude API Fundamentals course to gain a solid foundation in using the Claude API.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "learning",
+        "Claude API"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can developers contribute to the Claude Cookbooks?",
+      "a": "Developers can contribute by submitting ideas, fixing typos, adding new guides, or improving existing ones. It's recommended to review existing issues and pull requests before contributing.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "contributing",
+        "community"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What capabilities does the Claude Cookbook cover?",
+      "a": "The Claude Cookbook covers capabilities such as classification, retrieval augmented generation, and summarization, providing techniques for each.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "capabilities",
+        "techniques"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the purpose of the 'Tool Use and Integration' section in the Claude Cookbooks?",
+      "a": "The 'Tool Use and Integration' section teaches how to integrate Claude with external tools and functions, enhancing its capabilities for various applications like customer service and calculations.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "tool integration",
+        "capabilities"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some advanced techniques available in the Claude Cookbooks?",
+      "a": "Advanced techniques include using sub-agents, uploading PDFs for summarization, creating moderation filters, and enabling JSON mode for consistent output.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "advanced techniques",
+        "Claude AI"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can Claude be used for multimodal capabilities?",
+      "a": "Claude can handle multimodal tasks such as interpreting images, extracting content from forms, and generating images using Stable Diffusion.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "multimodal",
+        "image generation"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    },
+    {
+      "q": "Where can developers find additional resources for using Claude on AWS?",
+      "a": "Developers can explore examples and solutions for using Claude on AWS infrastructure through the Anthropic on AWS repository.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "AWS",
+        "resources"
+      ],
+      "source": "anthropics/anthropic-cookbook",
+      "confidence": 0.82
+    }
+  ]
+}
