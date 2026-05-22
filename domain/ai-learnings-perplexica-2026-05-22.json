@@ -1,0 +1,105 @@
+{
+  "source": "perplexica",
+  "repo": "ItzCrazyKns/Perplexica",
+  "category": "domain",
+  "topic": "Perplexity AI search methodology, answer synthesis patterns",
+  "learnedAt": "2026-05-22T18:04:08.253Z",
+  "entries": [
+    {
+      "q": "What is Vane?",
+      "a": "Vane is a privacy-focused AI answering engine that runs entirely on your own hardware, combining knowledge from the internet with support for local LLMs and cloud providers to deliver accurate answers with cited sources while ensuring user privacy.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI",
+        "privacy"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the smart search modes available in Vane?",
+      "a": "Vane offers three smart search modes: Speed Mode for quick answers, Balanced Mode for everyday searches, and Quality Mode for deep research.",
+      "category": "domain",
+      "tags": [
+        "search modes",
+        "Vane",
+        "features"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How does Vane ensure user privacy during searches?",
+      "a": "Vane ensures user privacy by running on personal hardware and utilizing web search powered by SearxNG, which allows access to multiple search engines while keeping user identity private.",
+      "category": "domain",
+      "tags": [
+        "privacy",
+        "search",
+        "SearxNG"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can Vane handle file uploads, and if so, what types of files?",
+      "a": "Yes, Vane can handle file uploads, allowing users to upload documents such as PDFs, text files, and images to ask questions about their content.",
+      "category": "domain",
+      "tags": [
+        "file uploads",
+        "Vane",
+        "features"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the installation options for Vane?",
+      "a": "Vane can be installed using Docker, which is recommended for ease of use, or through a non-Docker installation method that involves cloning the repository and installing dependencies.",
+      "category": "domain",
+      "tags": [
+        "installation",
+        "Docker",
+        "Vane"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What types of sources can Vane search?",
+      "a": "Vane allows users to search various sources, including the web, discussions, academic papers, and specific domains, making it versatile for different research needs.",
+      "category": "domain",
+      "tags": [
+        "sources",
+        "search",
+        "Vane"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the purpose of the widgets feature in Vane?",
+      "a": "The widgets feature in Vane provides helpful UI cards that display relevant information such as weather, calculations, and stock prices, enhancing the user experience during searches.",
+      "category": "domain",
+      "tags": [
+        "widgets",
+        "features",
+        "Vane"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How does Vane support different AI providers?",
+      "a": "Vane supports all major AI providers, allowing users to utilize local LLMs through Ollama or connect to cloud providers like OpenAI, Anthropic Claude, and Google Gemini, enabling flexible model selection.",
+      "category": "domain",
+      "tags": [
+        "AI providers",
+        "Vane",
+        "features"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    }
+  ]
+}
