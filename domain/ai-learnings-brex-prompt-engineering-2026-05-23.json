@@ -1,0 +1,97 @@
+{
+  "source": "brex-prompt-engineering",
+  "repo": "brexhq/prompt-engineering",
+  "category": "conversation_patterns",
+  "topic": "Real-world prompt engineering patterns used by engineers",
+  "learnedAt": "2026-05-23T22:51:45.677Z",
+  "entries": [
+    {
+      "q": "What is a large language model?",
+      "a": "A large language model is a prediction engine that takes a sequence of words and tries to predict the most likely sequence to come after that sequence.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "language model"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "How do large language models learn probabilities?",
+      "a": "Large language models learn probabilities by training on large corpuses of text, assigning a probability to likely next sequences and then sampling from those to choose one.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "training"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the difference between traditional language models and modern language models?",
+      "a": "Traditional language models, such as n-gram models, have deficiencies in terms of an explosion of state space and working with novel phrases, whereas modern language models, such as transformer networks, can handle these issues more effectively.",
+      "category": "conversation_patterns",
+      "tags": [
+        "language models",
+        "traditional vs modern"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the significance of the Transformer Network in natural language processing?",
+      "a": "The Transformer Network, introduced in 2017, revolutionized natural language processing by enabling machines to perform tasks like translating between languages nearly as well as humans, and introduced a mechanism called 'attention' for efficient emphasis on specific parts of the input.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Transformer Network",
+        "NLP"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some limitations of Long Short-Term Memory (LSTM) Networks?",
+      "a": "LSTMs struggle with long-term dependencies and process input one token at a time, making them inherently sequential, slow to train, and limited in their ability to predict outcomes based on distant context.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LSTM",
+        "limitations"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the role of 'attention' in Transformer Networks?",
+      "a": "Attention is a mechanism in Transformer Networks that allows the model to efficiently place emphasis on specific parts of the input, enabling it to handle complex tasks like language translation more effectively.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Transformer Network",
+        "attention"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "How have language models evolved over time?",
+      "a": "Language models have evolved from traditional models like n-gram models, to simple neural networks, to more complex models like LSTMs and Transformer Networks, each addressing limitations and improving performance in natural language processing tasks.",
+      "category": "conversation_patterns",
+      "tags": [
+        "language models",
+        "evolution"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the significance of Geoffrey Hinton's work in 2007?",
+      "a": "Geoffrey Hinton's work in 2007, which unlocked much deeper neural networks, helped alleviate some problems with language models, such as representing nuanced arbitrary concepts in a finite space and continuous way.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Geoffrey Hinton",
+        "neural networks"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    }
+  ]
+}
