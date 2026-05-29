@@ -1,0 +1,98 @@
+{
+  "source": "perplexica",
+  "repo": "ItzCrazyKns/Perplexica",
+  "category": "domain",
+  "topic": "Perplexity AI search methodology, answer synthesis patterns",
+  "learnedAt": "2026-05-29T02:38:02.547Z",
+  "entries": [
+    {
+      "q": "What is Vane?",
+      "a": "Vane is a privacy-focused AI answering engine that runs entirely on your own hardware.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI",
+        "privacy"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the key features of Vane?",
+      "a": "Vane features include support for local LLMs and cloud providers, smart search modes, pick your sources, widgets, web search powered by SearxNG, image and video search, file uploads, and search specific domains.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "features"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "How does Vane ensure privacy?",
+      "a": "Vane ensures privacy by running entirely on your own hardware and using SearxNG for web search, which keeps your identity private.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "privacy"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the different installation methods for Vane?",
+      "a": "Vane can be installed using Docker or without Docker. Using Docker is highly recommended as it simplifies the setup process.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "installation"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is SearxNG and how is it used in Vane?",
+      "a": "SearxNG is a search engine that Vane uses for web search. It is included in the Docker image and can also be used with a separate instance.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "SearxNG"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Can Vane be used with other AI providers?",
+      "a": "Yes, Vane supports all major AI providers, including OpenAI, Anthropic Claude, Google Gemini, and Groq, and allows you to mix and match models based on your needs.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "AI providers"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the Discover feature in Vane?",
+      "a": "The Discover feature in Vane allows you to browse interesting articles and trending content throughout the day, helping you stay informed without even searching.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "Discover"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    },
+    {
+      "q": "Is Vane open-source and free?",
+      "a": "Yes, Vane is open-source and free, thanks to the generous support of its sponsors and the community.",
+      "category": "domain",
+      "tags": [
+        "Vane",
+        "open-source"
+      ],
+      "source": "ItzCrazyKns/Perplexica",
+      "confidence": 0.82
+    }
+  ]
+}
