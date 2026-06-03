@@ -3,7 +3,7 @@
   "repo": "f/awesome-chatgpt-prompts",
   "category": "conversation_patterns",
   "topic": "ChatGPT prompting strategies and real-world use cases",
-  "learnedAt": "2026-06-03T02:33:13.848Z",
+  "learnedAt": "2026-06-03T12:59:21.638Z",
   "entries": [
     {
       "q": "What is prompts.chat?",
@@ -17,12 +17,12 @@
       "confidence": 0.82
     },
     {
-      "q": "What types of AI models does prompts.chat support?",
-      "a": "Prompts.chat works with ChatGPT, Claude, Gemini, Llama, Mistral, and more.",
+      "q": "What types of AI models are supported by prompts.chat?",
+      "a": "ChatGPT, Claude, Gemini, Llama, Mistral, and more.",
       "category": "conversation_patterns",
       "tags": [
         "AI models",
-        "compatibility"
+        "prompts.chat"
       ],
       "source": "f/awesome-chatgpt-prompts",
       "confidence": 0.82
@@ -32,7 +32,7 @@
       "a": "You can add prompts at prompts.chat/prompts/new, and they will sync automatically.",
       "category": "conversation_patterns",
       "tags": [
-        "contribution",
+        "contributing",
         "prompts.chat"
       ],
       "source": "f/awesome-chatgpt-prompts",
@@ -72,8 +72,8 @@
       "confidence": 0.82
     },
     {
-      "q": "What are some available integrations for prompts.chat?",
-      "a": "Available integrations include CLI, Claude Code Plugin, and MCP Server.",
+      "q": "What integrations are available for prompts.chat?",
+      "a": "CLI, Claude Code Plugin, and MCP Server integrations are available.",
       "category": "conversation_patterns",
       "tags": [
         "integrations",
@@ -83,12 +83,12 @@
       "confidence": 0.82
     },
     {
-      "q": "How can I access the prompts.chat API?",
-      "a": "You can access the prompts.chat API through the MCP server or by using the CLI command 'npx prompts.chat'.",
+      "q": "What is the purpose of the prompts.chat project?",
+      "a": "To provide a collection of prompt examples for AI chat models and to help users learn prompt engineering techniques.",
       "category": "conversation_patterns",
       "tags": [
-        "API",
-        "prompts.chat"
+        "prompts.chat",
+        "purpose"
       ],
       "source": "f/awesome-chatgpt-prompts",
       "confidence": 0.82
