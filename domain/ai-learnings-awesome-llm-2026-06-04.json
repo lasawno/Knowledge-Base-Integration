@@ -1,0 +1,97 @@
+{
+  "source": "awesome-llm",
+  "repo": "Hannibal046/Awesome-LLM",
+  "category": "domain",
+  "topic": "Comprehensive curated knowledge base on large language models, capabilities, research, and real-world applications",
+  "learnedAt": "2026-06-04T13:02:32.739Z",
+  "entries": [
+    {
+      "q": "What is the name of the first-generation reasoning model from DeepSeek?",
+      "a": "DeepSeek-R1",
+      "category": "domain",
+      "tags": [
+        "DeepSeek",
+        "reasoning model"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Which company developed the Transformer model?",
+      "a": "Google",
+      "category": "domain",
+      "tags": [
+        "Transformer",
+        "Google"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the name of the open-sourced GPT-4o level model?",
+      "a": "DeepSeek-V3",
+      "category": "domain",
+      "tags": [
+        "DeepSeek-V3",
+        "GPT-4o"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Who developed the BERT model?",
+      "a": "Google",
+      "category": "domain",
+      "tags": [
+        "BERT",
+        "Google"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the name of the MoE language model with 32B active and 1T total parameters?",
+      "a": "Kimi-K2",
+      "category": "domain",
+      "tags": [
+        "Kimi-K2",
+        "MoE language model"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Which paper introduced the concept of Attention Is All You Need?",
+      "a": "Attention Is All You Need by Google in 2017",
+      "category": "domain",
+      "tags": [
+        "Attention Is All You Need",
+        "Google"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the name of the model that uses a mixture-of-experts approach for efficient scaling of language models?",
+      "a": "GLaM",
+      "category": "domain",
+      "tags": [
+        "GLaM",
+        "mixture-of-experts"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    },
+    {
+      "q": "Who developed the GPT 3.0 model?",
+      "a": "OpenAI",
+      "category": "domain",
+      "tags": [
+        "GPT 3.0",
+        "OpenAI"
+      ],
+      "source": "Hannibal046/Awesome-LLM",
+      "confidence": 0.82
+    }
+  ]
+}
