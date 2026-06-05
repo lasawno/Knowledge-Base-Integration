@@ -3,7 +3,7 @@
   "repo": "anthropics/anthropic-cookbook",
   "category": "reasoning_techniques",
   "topic": "Claude AI reasoning patterns and factual response techniques",
-  "learnedAt": "2026-06-05T13:00:40.638Z",
+  "learnedAt": "2026-06-05T23:17:55.532Z",
   "entries": [
     {
       "q": "What is the Claude Cookbooks and what does it provide?",
@@ -33,7 +33,7 @@
       "category": "reasoning_techniques",
       "tags": [
         "Claude API key",
-        "requirements"
+        "prerequisites"
       ],
       "source": "anthropics/anthropic-cookbook",
       "confidence": 0.82
@@ -77,25 +77,26 @@
       "confidence": 0.82
     },
     {
-      "q": "Are there any additional resources available for developers working with Claude?",
-      "a": "Yes, there are additional resources available for developers working with Claude, including the Anthropic developer documentation, Anthropic support docs, and Anthropic Discord community.",
+      "q": "What are some of the third-party integrations that can be used with Claude?",
+      "a": "Some of the third-party integrations that can be used with Claude include vector databases like Pinecone, Wikipedia, and web pages.",
       "category": "reasoning_techniques",
       "tags": [
-        "additional resources",
-        "Anthropic developer documentation",
-        "Anthropic support docs",
-        "Anthropic Discord community"
+        "third-party integrations",
+        "Pinecone",
+        "Wikipedia",
+        "web pages"
       ],
       "source": "anthropics/anthropic-cookbook",
       "confidence": 0.82
     },
     {
-      "q": "What is the purpose of the Anthropic API Fundamentals course?",
-      "a": "The Anthropic API Fundamentals course is designed to provide a solid foundation for developers who are new to working with the Claude API.",
+      "q": "What is the purpose of the Anthropic developer documentation and support docs?",
+      "a": "The Anthropic developer documentation and support docs provide helpful resources and guides for developers working with the Claude API.",
       "category": "reasoning_techniques",
       "tags": [
-        "Anthropic API Fundamentals course",
-        "Claude API"
+        "Anthropic developer documentation",
+        "support docs",
+        "developer resources"
       ],
       "source": "anthropics/anthropic-cookbook",
       "confidence": 0.82
