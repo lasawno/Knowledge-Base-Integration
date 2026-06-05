@@ -3,88 +3,92 @@
   "repo": "f/awesome-chatgpt-prompts",
   "category": "conversation_patterns",
   "topic": "ChatGPT prompting strategies and real-world use cases",
-  "learnedAt": "2026-06-05T12:58:49.639Z",
+  "learnedAt": "2026-06-05T23:14:08.531Z",
   "entries": [
     {
       "q": "What is prompts.chat?",
-      "a": "Prompts.chat is the world's largest open-source prompt library for AI, originally created for ChatGPT but compatible with various AI models like Claude, Gemini, Llama, and Mistral.",
+      "a": "A curated collection of prompt examples for AI chat models.",
       "category": "conversation_patterns",
       "tags": [
-        "prompts",
-        "AI",
-        "library"
+        "prompts.chat",
+        "AI chat models"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What AI models are supported by prompts.chat?",
+      "a": "ChatGPT, Claude, Gemini, Llama, Mistral, and more.",
+      "category": "conversation_patterns",
+      "tags": [
+        "AI models",
+        "prompts.chat"
       ],
       "source": "f/awesome-chatgpt-prompts",
       "confidence": 0.82
     },
     {
       "q": "How can I contribute to prompts.chat?",
-      "a": "You can contribute by adding prompts at prompts.chat/prompts/new, where they will sync automatically to the library.",
+      "a": "Add prompts at prompts.chat/prompts/new — they sync automatically.",
       "category": "conversation_patterns",
       "tags": [
-        "contribute",
-        "community",
-        "prompts"
+        "contribution",
+        "prompts.chat"
       ],
       "source": "f/awesome-chatgpt-prompts",
       "confidence": 0.82
     },
     {
       "q": "What is the Interactive Book of Prompting?",
-      "a": "The Interactive Book of Prompting is a free, interactive guide with over 25 chapters that cover basic to advanced techniques in prompt engineering, including chain-of-thought reasoning and few-shot learning.",
+      "a": "A free, interactive guide covering everything from basics to advanced techniques like chain-of-thought reasoning and few-shot learning.",
       "category": "conversation_patterns",
       "tags": [
-        "education",
-        "prompting",
-        "guide"
+        "book",
+        "prompting"
       ],
       "source": "f/awesome-chatgpt-prompts",
       "confidence": 0.82
     },
     {
-      "q": "What is the purpose of the 'Prompting for Kids' feature?",
-      "a": "The 'Prompting for Kids' feature is an interactive, game-based adventure designed to teach children aged 8-14 how to communicate with AI through fun puzzles and stories.",
+      "q": "What is Prompting for Kids?",
+      "a": "An interactive, game-based adventure to teach children how to communicate with AI through fun puzzles and stories.",
       "category": "conversation_patterns",
       "tags": [
-        "education",
-        "children",
-        "AI"
+        "kids",
+        "prompting"
       ],
       "source": "f/awesome-chatgpt-prompts",
       "confidence": 0.82
     },
     {
-      "q": "How can I self-host my own prompt library?",
-      "a": "You can self-host a prompt library by using the command 'npx prompts.chat new my-prompt-library' to create a new library, followed by configuration steps for branding and authentication.",
+      "q": "Can I self-host my own private prompt library?",
+      "a": "Yes, deploy your own private prompt library with custom branding, themes, and authentication using prompts.chat.",
       "category": "conversation_patterns",
       "tags": [
         "self-hosting",
-        "setup",
-        "prompts"
+        "prompts.chat"
       ],
       "source": "f/awesome-chatgpt-prompts",
       "confidence": 0.82
     },
     {
       "q": "What integrations are available for prompts.chat?",
-      "a": "Prompts.chat can be integrated with various tools, including a CLI for command line access, a Claude Code Plugin for AI tools, and it can serve as an MCP server.",
+      "a": "CLI, Claude Code Plugin, and MCP Server integrations are available.",
       "category": "conversation_patterns",
       "tags": [
         "integrations",
-        "CLI",
-        "MCP"
+        "prompts.chat"
       ],
       "source": "f/awesome-chatgpt-prompts",
       "confidence": 0.82
     },
     {
-      "q": "What types of AI models does prompts.chat support?",
-      "a": "Prompts.chat supports a variety of AI models, including ChatGPT, Claude, Gemini, Llama, and Mistral.",
+      "q": "How can I access the prompts.chat API?",
+      "a": "The prompts.chat API is available for remote or local use, with documentation available at prompts.chat/docs/api.",
       "category": "conversation_patterns",
       "tags": [
-        "AI models",
-        "compatibility",
-        "prompts"
+        "API",
+        "prompts.chat"
       ],
       "source": "f/awesome-chatgpt-prompts",
       "confidence": 0.82
