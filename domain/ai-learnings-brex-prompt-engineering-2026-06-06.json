@@ -1,0 +1,108 @@
+{
+  "source": "brex-prompt-engineering",
+  "repo": "brexhq/prompt-engineering",
+  "category": "conversation_patterns",
+  "topic": "Real-world prompt engineering patterns used by engineers",
+  "learnedAt": "2026-06-06T23:15:58.232Z",
+  "entries": [
+    {
+      "q": "What is a Large Language Model?",
+      "a": "A Large Language Model is a prediction engine that takes a sequence of words and tries to predict the most likely sequence to come after that sequence.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "Language Model",
+        "Prediction Engine"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "How do Large Language Models learn probabilities?",
+      "a": "Large Language Models learn probabilities by training on large corpuses of text, which allows them to cater to specific use cases and generate statements that seem plausible.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LLM",
+        "Training",
+        "Probabilities"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the history of Language Models?",
+      "a": "Language Models have existed for decades, with traditional models like n-gram models having deficiencies, and newer models like neural networks and Transformers improving performance and capabilities.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Language Model History",
+        "N-gram Models",
+        "Neural Networks",
+        "Transformers"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the significance of the Transformer Network?",
+      "a": "The Transformer Network, introduced in 2017, revolutionized natural language processing by allowing machines to perform tasks like translation nearly as well as humans, and introduced a mechanism called 'attention' for efficient emphasis on specific input parts.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Transformer Network",
+        "NLP",
+        "Attention Mechanism"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the limitations of traditional Language Models like n-gram models?",
+      "a": "Traditional Language Models like n-gram models have limitations such as an explosion of state space, sparsity, and inability to generate coherent text, and are inherently limited in their ability to scale to large values of N.",
+      "category": "conversation_patterns",
+      "tags": [
+        "N-gram Models",
+        "Limitations",
+        "State Space",
+        "Sparsity"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the role of Long Short-Term Memory (LSTM) Networks in Language Models?",
+      "a": "LSTM Networks, introduced in the 1990s, allowed models to process arbitrary length sequences, alter internal state dynamically, and remember previous inputs, leading to remarkable improvements in Language Model performance.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LSTM Networks",
+        "Language Models",
+        "Sequence Processing"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the challenges of using LSTM Networks in Language Models?",
+      "a": "LSTM Networks struggle with long-term dependencies, are inherently sequential, slow to train, and have limitations in processing input, making them less effective for certain tasks.",
+      "category": "conversation_patterns",
+      "tags": [
+        "LSTM Networks",
+        "Challenges",
+        "Long-term Dependencies",
+        "Sequential Processing"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the significance of the paper 'Attention Is All You Need'?",
+      "a": "The paper 'Attention Is All You Need' introduced Transformer Networks and revolutionized natural language processing, enabling machines to perform tasks like translation nearly as well as humans.",
+      "category": "conversation_patterns",
+      "tags": [
+        "Attention Is All You Need",
+        "Transformer Networks",
+        "NLP"
+      ],
+      "source": "brexhq/prompt-engineering",
+      "confidence": 0.82
+    }
+  ]
+}
