@@ -1,0 +1,88 @@
+{
+  "source": "awesome-chatgpt-prompts",
+  "repo": "f/awesome-chatgpt-prompts",
+  "category": "conversation_patterns",
+  "topic": "ChatGPT prompting strategies and real-world use cases",
+  "learnedAt": "2026-06-06T23:13:19.931Z",
+  "entries": [
+    {
+      "q": "What is prompts.chat?",
+      "a": "Prompts.chat is the world's largest open-source prompt library for AI, featuring a curated collection of prompt examples that work with various AI chat models, including ChatGPT, Claude, and more.",
+      "category": "conversation_patterns",
+      "tags": [
+        "prompts",
+        "AI",
+        "library"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I contribute to prompts.chat?",
+      "a": "You can contribute by adding prompts at prompts.chat/prompts/new, where they will sync automatically to the library.",
+      "category": "conversation_patterns",
+      "tags": [
+        "contribution",
+        "community"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the Interactive Book of Prompting?",
+      "a": "The Interactive Book of Prompting is a free, interactive guide that covers over 25 chapters on prompt engineering, ranging from basic techniques to advanced methods like chain-of-thought reasoning and few-shot learning.",
+      "category": "conversation_patterns",
+      "tags": [
+        "education",
+        "prompt engineering"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the purpose of the 'Prompting for Kids' section?",
+      "a": "The 'Prompting for Kids' section is designed to teach children aged 8-14 how to communicate with AI through interactive, game-based adventures that include fun puzzles and stories.",
+      "category": "conversation_patterns",
+      "tags": [
+        "education",
+        "children",
+        "AI"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the requirements for self-hosting prompts.chat?",
+      "a": "To self-host prompts.chat, you need to run a setup command using npx or clone the GitHub repository, install dependencies, and configure branding, themes, and authentication, with PostgreSQL recommended as the database.",
+      "category": "conversation_patterns",
+      "tags": [
+        "self-hosting",
+        "setup"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "How can I use prompts.chat as an MCP server?",
+      "a": "You can use prompts.chat as an MCP server by configuring it in your AI tools with either a remote URL or a local command setup, as detailed in the MCP documentation.",
+      "category": "conversation_patterns",
+      "tags": [
+        "MCP",
+        "integration"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    },
+    {
+      "q": "What notable recognition has prompts.chat received?",
+      "a": "Prompts.chat has been featured in Forbes, referenced by Harvard and Columbia, and has over 40 academic citations, making it a well-recognized resource in the AI community.",
+      "category": "conversation_patterns",
+      "tags": [
+        "recognition",
+        "community"
+      ],
+      "source": "f/awesome-chatgpt-prompts",
+      "confidence": 0.82
+    }
+  ]
+}
