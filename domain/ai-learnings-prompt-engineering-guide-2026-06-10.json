@@ -1,0 +1,97 @@
+{
+  "source": "prompt-engineering-guide",
+  "repo": "dair-ai/Prompt-Engineering-Guide",
+  "category": "reasoning_techniques",
+  "topic": "AI reasoning techniques, chain-of-thought, factual AI knowledge",
+  "learnedAt": "2026-06-10T23:12:51.532Z",
+  "entries": [
+    {
+      "q": "What is prompt engineering?",
+      "a": "Prompt engineering is a discipline for developing and optimizing prompts to efficiently use language models for various applications and research topics.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt engineering",
+        "language models"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are the benefits of prompt engineering?",
+      "a": "Prompt engineering helps to better understand the capabilities and limitations of large language models and improves their capacity on common and complex tasks.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt engineering",
+        "benefits"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is chain-of-thought prompting?",
+      "a": "Chain-of-thought prompting is a technique used in prompt engineering that involves generating a series of intermediate steps to arrive at a final answer.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "chain-of-thought",
+        "prompting techniques"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some applications of prompt engineering?",
+      "a": "Applications of prompt engineering include function calling, generating data, generating synthetic datasets for RAG, generating code, and graduate job classification case studies.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt engineering",
+        "applications"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is the purpose of the Prompt Engineering Guide?",
+      "a": "The Prompt Engineering Guide is a resource that contains the latest papers, learning guides, lectures, references, and tools related to prompt engineering for large language models.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt engineering guide",
+        "resources"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What are some techniques used in prompt engineering?",
+      "a": "Techniques used in prompt engineering include zero-shot prompting, few-shot prompting, chain-of-thought prompting, self-consistency, generate knowledge prompting, and prompt chaining.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "prompt engineering",
+        "techniques"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is Retrieval Augmented Generation (RAG) in prompt engineering?",
+      "a": "Retrieval Augmented Generation (RAG) is a technique used in prompt engineering that involves generating text based on retrieved information from a knowledge base or database.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "RAG",
+        "prompt engineering"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    },
+    {
+      "q": "What is Automatic Reasoning and Tool-use (ART) in prompt engineering?",
+      "a": "Automatic Reasoning and Tool-use (ART) is a technique used in prompt engineering that involves using reasoning and tool-use to generate text or solve problems.",
+      "category": "reasoning_techniques",
+      "tags": [
+        "ART",
+        "prompt engineering"
+      ],
+      "source": "dair-ai/Prompt-Engineering-Guide",
+      "confidence": 0.82
+    }
+  ]
+}
